@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Hora destacada de: Zubat",
+        "start": "2024-04-02T18:00:00.000",
+        "end": "2024-04-02T19:00:00.000",
+        "extraData": {
+            "name": "Zubat",
+            "canBeShiny": true,
+            "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_041_00.png",
+            "bonus": "Doble de caramelos por transferencia",
+            "list": [
+                {
+                    "name": "Zubat",
+                    "canBeShiny": true,
+                    "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_041_00.png"
+                }
+            ],
+            "bonusimg": "2× Transfer Candy"
+        }
+    },
+    {
+        "name": "Hora destacada de: Croagunk",
+        "start": "2024-04-09T18:00:00.000",
+        "end": "2024-04-09T19:00:00.000",
+        "extraData": {
+            "name": "Croagunk",
+            "canBeShiny": true,
+            "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_453_00.png",
+            "bonus": "Doble de experiencia por evolución",
+            "list": [
+                {
+                    "name": "Croagunk",
+                    "canBeShiny": true,
+                    "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_453_00.png"
+                }
+            ],
+            "bonusimg": "2× Evolution XP"
+        }
+    },
+    {
+        "name": "Hora destacada de: Caterpie, Weedle, Wurmple",
+        "start": "2024-04-16T18:00:00.000",
+        "end": "2024-04-16T19:00:00.000",
+        "extraData": {
+            "name": "Caterpie",
+            "canBeShiny": true,
+            "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_010_00.png",
+            "bonus": "Doble de polvo estelar por captura",
+            "list": [
+                {
+                    "name": "Caterpie",
+                    "canBeShiny": true,
+                    "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_010_00.png"
+                },
+                {
+                    "name": "Weedle",
+                    "canBeShiny": true,
+                    "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_013_00.png"
+                },
+                {
+                    "name": "Wurmple",
+                    "canBeShiny": true,
+                    "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_265_00.png"
+                }
+            ],
+            "bonusimg": "2× Catch Stardust"
+        }
+    },
+    {
+        "name": "Hora destacada de: Trubbish",
+        "start": "2024-04-23T18:00:00.000",
+        "end": "2024-04-23T19:00:00.000",
+        "extraData": {
+            "name": "Trubbish",
+            "canBeShiny": true,
+            "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_568_00.png",
+            "bonus": "Doble de experiencia por captura",
+            "list": [
+                {
+                    "name": "Trubbish",
+                    "canBeShiny": true,
+                    "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_568_00.png"
+                }
+            ],
+            "bonusimg": "2× Catch XP"
+        }
+    },
+    {
+        "name": "Hora destacada de: Clefairy",
+        "start": "2024-04-30T18:00:00.000",
+        "end": "2024-04-30T19:00:00.000",
+        "extraData": {
+            "name": "Clefairy",
+            "canBeShiny": true,
+            "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_035_00.png",
+            "bonus": "Doble de caramelos por captura",
+            "list": [
+                {
+                    "name": "Clefairy",
+                    "canBeShiny": true,
+                    "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_035_00.png"
+                }
+            ],
+            "bonusimg": "2× Catch Candy"
+        }
+    }
+]
