@@ -1,0 +1,178 @@
+{
+  "1st Tier": [
+    {
+      "No Dex": "#0001",
+      "Boss Name": "Bulbasaur",
+      "Boss CP": "3,656",
+      "Max Capture CP": "637",
+      "Max Capture CP Bosst": "796",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm1.icon.png"
+    },
+    {
+      "No Dex": "#0004",
+      "Boss Name": "Charmander",
+      "Boss CP": "3,334",
+      "Max Capture CP": "560",
+      "Max Capture CP Bosst": "700",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm4.icon.png"
+    },
+    {
+      "No Dex": "#0007",
+      "Boss Name": "Squirtle",
+      "Boss CP": "3,113",
+      "Max Capture CP": "540",
+      "Max Capture CP Bosst": "675",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm7.icon.png"
+    },
+    {
+      "No Dex": "#0025",
+      "Boss Name": "Pikachu",
+      "Boss CP": "3,277",
+      "Max Capture CP": "536",
+      "Max Capture CP Bosst": "670",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm25.icon.png"
+    },
+    {
+      "No Dex": "#0088",
+      "Boss Name": "Grimer",
+      "Boss CP": "3,764",
+      "Max Capture CP": "785",
+      "Max Capture CP Bosst": "981",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm88.icon.png"
+    }
+  ],
+  "1st Tier Shadow Raids": [
+    {
+      "No Dex": "#0060",
+      "Boss Name": "Poliwag",
+      "Boss CP": "2,798",
+      "Max Capture CP": "473",
+      "Max Capture CP Bosst": "592",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm60.icon.png"
+    },
+    {
+      "No Dex": "#0096",
+      "Boss Name": "Drowzee",
+      "Boss CP": "3,130",
+      "Max Capture CP": "594",
+      "Max Capture CP Bosst": "743",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm96.icon.png"
+    },
+    {
+      "No Dex": "#0339",
+      "Boss Name": "Barboach",
+      "Boss CP": "2,605",
+      "Max Capture CP": "468",
+      "Max Capture CP Bosst": "585",
+      "Shiny": "No",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm339.icon.png"
+    },
+    {
+      "No Dex": "#0590",
+      "Boss Name": "Foongus",
+      "Boss CP": "2,824",
+      "Max Capture CP": "559",
+      "Max Capture CP Bosst": "699",
+      "Shiny": "No",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm590.icon.png"
+    }
+  ],
+  "3rd Tier": [
+    {
+      "No Dex": "#0040",
+      "Boss Name": "Wigglytuff",
+      "Boss CP": "10,513",
+      "Max Capture CP": "1,101",
+      "Max Capture CP Bosst": "1,376",
+      "Shiny": "No",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm40.icon.png"
+    },
+    {
+      "No Dex": "#0062",
+      "Boss Name": "Poliwrath",
+      "Boss CP": "16,674",
+      "Max Capture CP": "1,477",
+      "Max Capture CP Bosst": "1,847",
+      "Shiny": "No",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm62.icon.png"
+    },
+    {
+      "No Dex": "#0095",
+      "Boss Name": "Onix",
+      "Boss CP": "9,429",
+      "Max Capture CP": "629",
+      "Max Capture CP Bosst": "787",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm95.icon.png"
+    }
+  ],
+  "3rd Tier Shadow Raids": [
+    {
+      "No Dex": "#0202",
+      "Boss Name": "Wobbuffet",
+      "Boss CP": "5,217",
+      "Max Capture CP": "586",
+      "Max Capture CP Bosst": "733",
+      "Shiny": "No",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm202.icon.png"
+    },
+    {
+      "No Dex": "#0215",
+      "Boss Name": "Sneasel",
+      "Boss CP": "16,370",
+      "Max Capture CP": "1,172",
+      "Max Capture CP Bosst": "1,465",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm215.icon.png"
+    },
+    {
+      "No Dex": "#0237",
+      "Boss Name": "Hitmontop",
+      "Boss CP": "17,715",
+      "Max Capture CP": "1,232",
+      "Max Capture CP Bosst": "1,540",
+      "Shiny": "No",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm237.icon.png"
+    }
+  ],
+  "5th Tier": [
+    {
+      "No Dex": "#0250",
+      "Boss Name": "Ho-Oh",
+      "Boss CP": "50,064",
+      "Max Capture CP": "2,207",
+      "Max Capture CP Bosst": "2,759",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm250.icon.png"
+    }
+  ],
+  "Legendary Shadow Raids": [
+    {
+      "No Dex": "#0243",
+      "Boss Name": "Raikou",
+      "Boss CP": "45,435",
+      "Max Capture CP": "1,972",
+      "Max Capture CP Bosst": "2,466",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm243.icon.png"
+    }
+  ],
+  "Mega Raids": [
+    {
+      "No Dex": "#0248",
+      "Boss Name": "Mega Tyranitar",
+      "Boss CP": "52,433",
+      "Max Capture CP": "2,191",
+      "Max Capture CP Bosst": "2,739",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm248.icon.png"
+    }
+  ]
+}

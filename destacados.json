@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Hora destacada de: Cake Hat Pikachu",
+        "start": "2024-07-02T18:00:00.000",
+        "end": "2024-07-02T19:00:00.000",
+        "extraData": {
+            "name": "Cake Hat Pikachu",
+            "canBeShiny": true,
+            "image": "https://leekduck.com/assets/img/pokemon_icons/pm25.cANNIVERSARY_2022_NOEVOLVE.icon.png",
+            "bonus": "Doble de experiencia por captura",
+            "list": [
+                {
+                    "name": "Cake Hat Pikachu",
+                    "canBeShiny": true,
+                    "image": "https://leekduck.com/assets/img/pokemon_icons/pm25.cANNIVERSARY_2022_NOEVOLVE.icon.png"
+                }
+            ],
+            "bonusimg": "2× Catch XP"
+        }
+    },
+    {
+        "name": "Hora destacada de: Spheal",
+        "start": "2024-07-09T18:00:00.000",
+        "end": "2024-07-09T19:00:00.000",
+        "extraData": {
+            "name": "Spheal",
+            "canBeShiny": true,
+            "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_363_00.png",
+            "bonus": "Doble de caramelos por captura",
+            "list": [
+                {
+                    "name": "Spheal",
+                    "canBeShiny": true,
+                    "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_363_00.png"
+                }
+            ],
+            "bonusimg": "2× Catch Candy"
+        }
+    },
+    {
+        "name": "Hora destacada de: Binacle",
+        "start": "2024-07-16T18:00:00.000",
+        "end": "2024-07-16T19:00:00.000",
+        "extraData": {
+            "name": "Binacle",
+            "canBeShiny": true,
+            "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_688_00.png",
+            "bonus": "Doble de caramelos por transferencia",
+            "list": [
+                {
+                    "name": "Binacle",
+                    "canBeShiny": true,
+                    "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_688_00.png"
+                }
+            ],
+            "bonusimg": "2× Transfer Candy"
+        }
+    },
+    {
+        "name": "Hora destacada de: Diglett, Alolan Diglett",
+        "start": "2024-07-23T18:00:00.000",
+        "end": "2024-07-23T19:00:00.000",
+        "extraData": {
+            "name": "Diglett",
+            "canBeShiny": true,
+            "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_050_00.png",
+            "bonus": "Doble de experiencia por evolución",
+            "list": [
+                {
+                    "name": "Diglett",
+                    "canBeShiny": true,
+                    "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_050_00.png"
+                },
+                {
+                    "name": "Alolan Diglett",
+                    "canBeShiny": true,
+                    "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_050_61.png"
+                }
+            ],
+            "bonusimg": "2× Evolution XP"
+        }
+    },
+    {
+        "name": "Hora destacada de: Togedemaru",
+        "start": "2024-07-30T18:00:00.000",
+        "end": "2024-07-30T19:00:00.000",
+        "extraData": {
+            "name": "Togedemaru",
+            "canBeShiny": false,
+            "image": "https://leekduck.com/assets/img/pokemon_icons/pm777.icon.png",
+            "bonus": "Doble de polvo estelar por captura",
+            "list": [
+                {
+                    "name": "Togedemaru",
+                    "canBeShiny": false,
+                    "image": "https://leekduck.com/assets/img/pokemon_icons/pm777.icon.png"
+                }
+            ],
+            "bonusimg": "2× Catch Stardust"
+        }
+    }
+]
