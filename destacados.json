@@ -1,0 +1,59 @@
+[
+    {
+        "name": "Lileep",
+        "start": "2024-08-13T18:00:00.000",
+        "end": "2024-08-13T19:00:00.000",
+        "extraData": {
+            "name": "Lileep",
+            "canBeShiny": true,
+            "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_345_00.png",
+            "bonus": "Doble de caramelos por captura",
+            "list": [
+                {
+                    "name": "Lileep",
+                    "canBeShiny": true,
+                    "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_345_00.png"
+                }
+            ],
+            "bonusimg": "2× Catch Candy"
+        }
+    },
+    {
+        "name": "Mankey",
+        "start": "2024-08-20T18:00:00.000",
+        "end": "2024-08-20T19:00:00.000",
+        "extraData": {
+            "name": "Mankey",
+            "canBeShiny": true,
+            "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_056_00.png",
+            "bonus": "Doble de caramelos por transferencia",
+            "list": [
+                {
+                    "name": "Mankey",
+                    "canBeShiny": true,
+                    "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_056_00.png"
+                }
+            ],
+            "bonusimg": "2× Transfer Candy"
+        }
+    },
+    {
+        "name": "Magnemite",
+        "start": "2024-08-27T18:00:00.000",
+        "end": "2024-08-27T19:00:00.000",
+        "extraData": {
+            "name": "Magnemite",
+            "canBeShiny": true,
+            "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_081_00.png",
+            "bonus": "Doble de experiencia por evolución",
+            "list": [
+                {
+                    "name": "Magnemite",
+                    "canBeShiny": true,
+                    "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_081_00.png"
+                }
+            ],
+            "bonusimg": "2× Evolution XP"
+        }
+    }
+]
