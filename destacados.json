@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Gastly, Duskull, Litwick",
+        "start": "2024-10-22T18:00:00.000",
+        "end": "2024-10-22T19:00:00.000",
+        "extraData": {
+            "name": "Gastly",
+            "canBeShiny": true,
+            "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_092_00.png",
+            "bonus": "Doble de experiencia por captura",
+            "list": [
+                {
+                    "name": "Gastly",
+                    "canBeShiny": true,
+                    "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_092_00.png"
+                },
+                {
+                    "name": "Duskull",
+                    "canBeShiny": true,
+                    "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_355_00.png"
+                },
+                {
+                    "name": "Litwick",
+                    "canBeShiny": true,
+                    "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_607_00.png"
+                }
+            ],
+            "bonusimg": "2× Catch XP"
+        }
+    }
+]
