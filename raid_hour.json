@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Darkrai",
+        "start": "2024-10-30T18:00:00.000",
+        "end": "2024-10-30T19:00:00.000",
+        "extraData": null
+    },
+    {
+        "name": "Lugia",
+        "start": "2024-11-06T18:00:00.000",
+        "end": "2024-11-06T19:00:00.000",
+        "extraData": null
+    },
+    {
+        "name": "Lugia",
+        "start": "2024-11-13T18:00:00.000",
+        "end": "2024-11-13T19:00:00.000",
+        "extraData": null
+    },
+    {
+        "name": "Nihilego",
+        "start": "2024-11-19T18:00:00.000",
+        "end": "2024-11-19T19:00:00.000",
+        "extraData": null
+    },
+    {
+        "name": "Tapu Koko",
+        "start": "2024-11-20T18:00:00.000",
+        "end": "2024-11-20T19:00:00.000",
+        "extraData": null
+    },
+    {
+        "name": "Dialga Origin",
+        "start": "2024-11-21T18:00:00.000",
+        "end": "2024-11-21T19:00:00.000",
+        "extraData": null,
+        "fm": "Origin"
+    },
+    {
+        "name": "Palkia Origin",
+        "start": "2024-11-22T18:00:00.000",
+        "end": "2024-11-22T19:00:00.000",
+        "extraData": null,
+        "fm": "Origin"
+    },
+    {
+        "name": "Zacian, Zamazenta, Regieleki, and Regidrago",
+        "start": "2024-11-27T18:00:00.000",
+        "end": "2024-11-27T19:00:00.000",
+        "extraData": null
+    }
+]

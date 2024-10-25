@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Surskit",
+        "start": "2024-11-05T18:00:00.000",
+        "end": "2024-11-05T19:00:00.000",
+        "extraData": {
+            "name": "Surskit",
+            "canBeShiny": true,
+            "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_283_00.png",
+            "bonus": "Doble de caramelos por transferencia",
+            "list": [
+                {
+                    "name": "Surskit",
+                    "canBeShiny": true,
+                    "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_283_00.png"
+                }
+            ],
+            "bonusimg": "2× Transfer Candy"
+        }
+    },
+    {
+        "name": "Smoliv",
+        "start": "2024-11-12T18:00:00.000",
+        "end": "2024-11-12T19:00:00.000",
+        "extraData": {
+            "name": "Smoliv",
+            "canBeShiny": true,
+            "image": "https://leekduck.com/assets/img/pokemon_icons/pm928.icon.png",
+            "bonus": "Doble de experiencia por evolución",
+            "list": [
+                {
+                    "name": "Smoliv",
+                    "canBeShiny": true,
+                    "image": "https://leekduck.com/assets/img/pokemon_icons/pm928.icon.png"
+                }
+            ],
+            "bonusimg": "2× Evolution XP"
+        }
+    },
+    {
+        "name": "Teddiursa, Combee",
+        "start": "2024-11-19T18:00:00.000",
+        "end": "2024-11-19T19:00:00.000",
+        "extraData": {
+            "name": "Teddiursa",
+            "canBeShiny": true,
+            "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_216_00.png",
+            "bonus": "Doble de polvo estelar por captura",
+            "list": [
+                {
+                    "name": "Teddiursa",
+                    "canBeShiny": true,
+                    "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_216_00.png"
+                },
+                {
+                    "name": "Combee",
+                    "canBeShiny": true,
+                    "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_415_00.png"
+                }
+            ],
+            "bonusimg": "2× Catch Stardust"
+        }
+    },
+    {
+        "name": "Joltik",
+        "start": "2024-11-26T18:00:00.000",
+        "end": "2024-11-26T19:00:00.000",
+        "extraData": {
+            "name": "Joltik",
+            "canBeShiny": true,
+            "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_595_00.png",
+            "bonus": "Doble de experiencia por captura",
+            "list": [
+                {
+                    "name": "Joltik",
+                    "canBeShiny": true,
+                    "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_595_00.png"
+                }
+            ],
+            "bonusimg": "2× Catch XP"
+        }
+    }
+]
