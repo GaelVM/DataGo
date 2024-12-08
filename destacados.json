@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Murkrow",
+        "start": "2024-12-10T18:00:00.000",
+        "end": "2024-12-10T19:00:00.000",
+        "extraData": {
+            "name": "Murkrow",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_198_00.png",
+            "bonus": "Doble de experiencia por captura",
+            "list": [
+                {
+                    "name": "Murkrow",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_198_00.png"
+                }
+            ],
+            "bonusimg": "2× Catch XP"
+        }
+    },
+    {
+        "name": "Slugma, Bergmite",
+        "start": "2024-12-17T18:00:00.000",
+        "end": "2024-12-17T19:00:00.000",
+        "extraData": {
+            "name": "Slugma",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_218_00.png",
+            "bonus": "Doble de caramelos por captura",
+            "list": [
+                {
+                    "name": "Slugma",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_218_00.png"
+                },
+                {
+                    "name": "Bergmite",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm712.icon.png"
+                }
+            ],
+            "bonusimg": "2× Catch Candy"
+        }
+    },
+    {
+        "name": "Holiday Delibird",
+        "start": "2024-12-24T18:00:00.000",
+        "end": "2024-12-24T19:00:00.000",
+        "extraData": {
+            "name": "Holiday Delibird",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm225.fWINTER_2020.icon.png",
+            "bonus": "Doble de caramelos por transferencia",
+            "list": [
+                {
+                    "name": "Holiday Delibird",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm225.fWINTER_2020.icon.png"
+                }
+            ],
+            "bonusimg": "2× Transfer Candy"
+        }
+    },
+    {
+        "name": "Togetic",
+        "start": "2024-12-31T18:00:00.000",
+        "end": "2024-12-31T19:00:00.000",
+        "extraData": {
+            "name": "Togetic",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_176_00.png",
+            "bonus": "Doble de experiencia por evolución",
+            "list": [
+                {
+                    "name": "Togetic",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_176_00.png"
+                }
+            ],
+            "bonusimg": "2× Evolution XP"
+        }
+    }
+]
