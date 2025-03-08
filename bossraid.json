@@ -1,0 +1,178 @@
+{
+  "1st Tier": [
+    {
+      "No Dex": "#0574",
+      "Boss Name": "Gothita",
+      "Boss CP": "3,119",
+      "Max Capture CP": "543",
+      "Max Capture CP Bosst": "679",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_574_00.png"
+    },
+    {
+      "No Dex": "#0577",
+      "Boss Name": "Solosis",
+      "Boss CP": "4,486",
+      "Max Capture CP": "781",
+      "Max Capture CP Bosst": "977",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_577_00.png"
+    },
+    {
+      "No Dex": "#0854",
+      "Boss Name": "Sinistea",
+      "Boss CP": "3,845",
+      "Max Capture CP": "650",
+      "Max Capture CP Bosst": "813",
+      "Shiny": "No",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_854_00.png"
+    }
+  ],
+  "3rd Tier": [
+    {
+      "No Dex": "#0026",
+      "Boss Name": "Alolan Raichu",
+      "Boss CP": "16,848",
+      "Max Capture CP": "1,306",
+      "Max Capture CP Bosst": "1,633",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_026_00.png"
+    },
+    {
+      "No Dex": "#0157",
+      "Boss Name": "Hisuian Typhlosion",
+      "Boss CP": "20,758",
+      "Max Capture CP": "1,710",
+      "Max Capture CP Bosst": "2,138",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_157_00.png"
+    },
+    {
+      "No Dex": "#0302",
+      "Boss Name": "Sableye",
+      "Boss CP": "4,695",
+      "Max Capture CP": "843",
+      "Max Capture CP Bosst": "1,054",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_302_00.png"
+    }
+  ],
+  "5th Tier": [
+    {
+      "No Dex": "#0144",
+      "Boss Name": "Articuno",
+      "Boss CP": "40,165",
+      "Max Capture CP": "1,743",
+      "Max Capture CP Bosst": "2,179",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_144_00.png"
+    },
+    {
+      "No Dex": "#0145",
+      "Boss Name": "Zapdos",
+      "Boss CP": "46,418",
+      "Max Capture CP": "2,015",
+      "Max Capture CP Bosst": "2,519",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_145_00.png"
+    },
+    {
+      "No Dex": "#0146",
+      "Boss Name": "Moltres",
+      "Boss CP": "45,609",
+      "Max Capture CP": "1,980",
+      "Max Capture CP Bosst": "2,475",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_146_00.png"
+    }
+  ],
+  "Mega Raids": [
+    {
+      "No Dex": "#0448",
+      "Boss Name": "Mega Lucario",
+      "Boss CP": "18,989",
+      "Max Capture CP": "1,544",
+      "Max Capture CP Bosst": "1,930",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_448_00.png"
+    }
+  ],
+  "1st Tier Shadow Raids": [
+    {
+      "No Dex": "#0029",
+      "Boss Name": "Nidoran♀",
+      "Boss CP": "2,522",
+      "Max Capture CP": "466",
+      "Max Capture CP Bosst": "583",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_029_00.png"
+    },
+    {
+      "No Dex": "#0032",
+      "Boss Name": "Nidoran♂",
+      "Boss CP": "2,803",
+      "Max Capture CP": "491",
+      "Max Capture CP Bosst": "614",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_032_00.png"
+    },
+    {
+      "No Dex": "#0158",
+      "Boss Name": "Totodile",
+      "Boss CP": "3,600",
+      "Max Capture CP": "646",
+      "Max Capture CP Bosst": "808",
+      "Shiny": "No",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_158_00.png"
+    },
+    {
+      "No Dex": "#0280",
+      "Boss Name": "Ralts",
+      "Boss CP": "1,980",
+      "Max Capture CP": "308",
+      "Max Capture CP Bosst": "385",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_280_00.png"
+    }
+  ],
+  "3rd Tier Shadow Raids": [
+    {
+      "No Dex": "#0125",
+      "Boss Name": "Electabuzz",
+      "Boss CP": "17,718",
+      "Max Capture CP": "1,333",
+      "Max Capture CP Bosst": "1,667",
+      "Shiny": "No",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_125_00.png"
+    },
+    {
+      "No Dex": "#0126",
+      "Boss Name": "Magmar",
+      "Boss CP": "18,170",
+      "Max Capture CP": "1,367",
+      "Max Capture CP Bosst": "1,710",
+      "Shiny": "No",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_126_00.png"
+    },
+    {
+      "No Dex": "#0202",
+      "Boss Name": "Wobbuffet",
+      "Boss CP": "5,217",
+      "Max Capture CP": "586",
+      "Max Capture CP Bosst": "733",
+      "Shiny": "No",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_202_00.png"
+    }
+  ],
+  "Legendary Shadow Raids": [
+    {
+      "No Dex": "#0378",
+      "Boss Name": "Regice",
+      "Boss CP": "42,768",
+      "Max Capture CP": "1,784",
+      "Max Capture CP Bosst": "2,230",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_378_00.png"
+    }
+  ]
+}
