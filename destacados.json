@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Shellder",
+        "start": "2025-03-18T18:00:00.000",
+        "end": "2025-03-18T19:00:00.000",
+        "extraData": {
+            "name": "Shellder",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_090_00.png",
+            "bonus": "Doble de polvo estelar por captura",
+            "list": [
+                {
+                    "name": "Shellder",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_090_00.png"
+                }
+            ],
+            "bonusimg": "2× Catch Stardust"
+        }
+    },
+    {
+        "name": "Cutiefly",
+        "start": "2025-03-25T18:00:00.000",
+        "end": "2025-03-25T19:00:00.000",
+        "extraData": {
+            "name": "Cutiefly",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm742.icon.png",
+            "bonus": "Doble de experiencia por captura",
+            "list": [
+                {
+                    "name": "Cutiefly",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm742.icon.png"
+                }
+            ],
+            "bonusimg": "2× Catch XP"
+        }
+    }
+]
