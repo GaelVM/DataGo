@@ -4,6 +4,7 @@ import os
 
 # Traducciones de los bonus
 bonus_translations = {
+    "2× Evolve XP": "Doble de experiencia por evolución",
     "2× Catch Candy": "Doble de caramelos por captura",
     "2× Catch XP": "Doble de experiencia por captura",
     "2× Catch Stardust": "Doble de polvo estelar por captura",
