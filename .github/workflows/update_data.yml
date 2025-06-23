@@ -1,4 +1,4 @@
-name: Update Raid Data
+name: Update Data
 
 on:
   push:
