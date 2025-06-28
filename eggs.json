@@ -1,0 +1,535 @@
+[
+  {
+    "No.": "#0175",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/175.png",
+    "Name": "Togepi",
+    "Type": {
+      "Typo1": "fairy"
+    },
+    "Egg Distance": "2km",
+    "Max CP At Hatch": "375",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0325",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/325.png",
+    "Name": "Spoink",
+    "Type": {
+      "Typo1": "psychic"
+    },
+    "Egg Distance": "2km",
+    "Max CP At Hatch": "762",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0355",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/355.png",
+    "Name": "Duskull",
+    "Type": {
+      "Typo1": "ghost"
+    },
+    "Egg Distance": "2km",
+    "Max CP At Hatch": "403",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0636",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/636.png",
+    "Name": "Larvesta",
+    "Type": {
+      "Typo1": "bug",
+      "Typo2": "fire"
+    },
+    "Egg Distance": "2km",
+    "Max CP At Hatch": "855",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0928",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/928.png",
+    "Name": "Smoliv",
+    "Type": {
+      "Typo1": "grass",
+      "Typo2": "normal"
+    },
+    "Egg Distance": "2km",
+    "Max CP At Hatch": "488",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0636",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/636.png",
+    "Name": "Larvesta",
+    "Type": {
+      "Typo1": "bug",
+      "Typo2": "fire"
+    },
+    "Egg Distance": "5km",
+    "Max CP At Hatch": "855",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0739",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/739.png",
+    "Name": "Crabrawler",
+    "Type": {
+      "Typo1": "fighting"
+    },
+    "Egg Distance": "5km",
+    "Max CP At Hatch": "778",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0769",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/769.png",
+    "Name": "Sandygast",
+    "Type": {
+      "Typo1": "ghost",
+      "Typo2": "ground"
+    },
+    "Egg Distance": "5km",
+    "Max CP At Hatch": "705",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0777",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/777.png",
+    "Name": "Togedemaru",
+    "Type": {
+      "Typo1": "electric",
+      "Typo2": "steel"
+    },
+    "Egg Distance": "5km",
+    "Max CP At Hatch": "1234",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0779",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/779.png",
+    "Name": "Bruxish",
+    "Type": {
+      "Typo1": "water",
+      "Typo2": "psychic"
+    },
+    "Egg Distance": "5km",
+    "Max CP At Hatch": "1365",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0052",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/052-a.png",
+    "Name": "Meowth",
+    "Type": {
+      "Typo1": "dark"
+    },
+    "Egg Distance": "7km",
+    "Max CP At Hatch": "455",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0052",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/052-g.png",
+    "Name": "Meowth",
+    "Type": {
+      "Typo1": "steel"
+    },
+    "Egg Distance": "7km",
+    "Max CP At Hatch": "591",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0088",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/088-a.png",
+    "Name": "Grimer",
+    "Type": {
+      "Typo1": "poison",
+      "Typo2": "dark"
+    },
+    "Egg Distance": "7km",
+    "Max CP At Hatch": "785",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0100",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/100-h.png",
+    "Name": "Voltorb",
+    "Type": {
+      "Typo1": "electric",
+      "Typo2": "grass"
+    },
+    "Egg Distance": "7km",
+    "Max CP At Hatch": "577",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0222",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/222-g.png",
+    "Name": "Corsola",
+    "Type": {
+      "Typo1": "ghost"
+    },
+    "Egg Distance": "7km",
+    "Max CP At Hatch": "855",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0131",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/131.png",
+    "Name": "Lapras",
+    "Type": {
+      "Typo1": "water",
+      "Typo2": "ice"
+    },
+    "Egg Distance": "10km",
+    "Max CP At Hatch": "1509",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0246",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/246.png",
+    "Name": "Larvitar",
+    "Type": {
+      "Typo1": "rock",
+      "Typo2": "ground"
+    },
+    "Egg Distance": "10km",
+    "Max CP At Hatch": "594",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0848",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/848.png",
+    "Name": "Toxel",
+    "Type": {
+      "Typo1": "electric",
+      "Typo2": "poison"
+    },
+    "Egg Distance": "10km",
+    "Max CP At Hatch": "415",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0885",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/885.png",
+    "Name": "Dreepy",
+    "Type": {
+      "Typo1": "dragon",
+      "Typo2": "ghost"
+    },
+    "Egg Distance": "10km",
+    "Max CP At Hatch": "438",
+    "Shiny": "no"
+  },
+  {
+    "No.": "#0935",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/935.png",
+    "Name": "Charcadet",
+    "Type": {
+      "Typo1": "fire"
+    },
+    "Egg Distance": "10km",
+    "Max CP At Hatch": "418",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0957",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/957.png",
+    "Name": "Tinkatink",
+    "Type": {
+      "Typo1": "fairy",
+      "Typo2": "steel"
+    },
+    "Egg Distance": "10km",
+    "Max CP At Hatch": "491",
+    "Shiny": "no"
+  },
+  {
+    "No.": "#0996",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/996.png",
+    "Name": "Frigibax",
+    "Type": {
+      "Typo1": "dragon",
+      "Typo2": "ice"
+    },
+    "Egg Distance": "10km",
+    "Max CP At Hatch": "713",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0551",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/551.png",
+    "Name": "Sandile",
+    "Type": {
+      "Typo1": "ground",
+      "Typo2": "dark"
+    },
+    "Egg Distance": "12km",
+    "Max CP At Hatch": "592",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0629",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/629.png",
+    "Name": "Vullaby",
+    "Type": {
+      "Typo1": "dark",
+      "Typo2": "flying"
+    },
+    "Egg Distance": "12km",
+    "Max CP At Hatch": "726",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0633",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/633.png",
+    "Name": "Deino",
+    "Type": {
+      "Typo1": "dark",
+      "Typo2": "dragon"
+    },
+    "Egg Distance": "12km",
+    "Max CP At Hatch": "606",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0674",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/674.png",
+    "Name": "Pancham",
+    "Type": {
+      "Typo1": "fighting"
+    },
+    "Egg Distance": "12km",
+    "Max CP At Hatch": "850",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0757",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/757.png",
+    "Name": "Salandit",
+    "Type": {
+      "Typo1": "poison",
+      "Typo2": "fire"
+    },
+    "Egg Distance": "12km",
+    "Max CP At Hatch": "641",
+    "Shiny": "no"
+  },
+  {
+    "No.": "#0965",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/965.png",
+    "Name": "Varoom",
+    "Type": {
+      "Typo1": "steel",
+      "Typo2": "poison"
+    },
+    "Egg Distance": "12km",
+    "Max CP At Hatch": "650",
+    "Shiny": "no"
+  },
+  {
+    "No.": "#0227",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/227.png",
+    "Name": "Skarmory",
+    "Type": {
+      "Typo1": "steel",
+      "Typo2": "flying"
+    },
+    "Egg Distance": "Adventure Sync - 5km",
+    "Max CP At Hatch": "1204",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0345",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/345.png",
+    "Name": "Lileep",
+    "Type": {
+      "Typo1": "rock",
+      "Typo2": "grass"
+    },
+    "Egg Distance": "Adventure Sync - 5km",
+    "Max CP At Hatch": "738",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0347",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/347.png",
+    "Name": "Anorith",
+    "Type": {
+      "Typo1": "rock",
+      "Typo2": "bug"
+    },
+    "Egg Distance": "Adventure Sync - 5km",
+    "Max CP At Hatch": "874",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0446",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/446.png",
+    "Name": "Munchlax",
+    "Type": {
+      "Typo1": "normal"
+    },
+    "Egg Distance": "Adventure Sync - 5km",
+    "Max CP At Hatch": "1081",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0447",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/447.png",
+    "Name": "Riolu",
+    "Type": {
+      "Typo1": "fighting"
+    },
+    "Egg Distance": "Adventure Sync - 5km",
+    "Max CP At Hatch": "567",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0458",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/458.png",
+    "Name": "Mantyke",
+    "Type": {
+      "Typo1": "water",
+      "Typo2": "flying"
+    },
+    "Egg Distance": "Adventure Sync - 5km",
+    "Max CP At Hatch": "713",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0371",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/371.png",
+    "Name": "Bagon",
+    "Type": {
+      "Typo1": "dragon"
+    },
+    "Egg Distance": "Adventure Sync - 10km",
+    "Max CP At Hatch": "660",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0443",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/443.png",
+    "Name": "Gible",
+    "Type": {
+      "Typo1": "dragon",
+      "Typo2": "ground"
+    },
+    "Egg Distance": "Adventure Sync - 10km",
+    "Max CP At Hatch": "635",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0677",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/677.png",
+    "Name": "Espurr",
+    "Type": {
+      "Typo1": "psychic"
+    },
+    "Egg Distance": "Adventure Sync - 10km",
+    "Max CP At Hatch": "719",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0775",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/775.png",
+    "Name": "Komala",
+    "Type": {
+      "Typo1": "normal"
+    },
+    "Egg Distance": "Adventure Sync - 10km",
+    "Max CP At Hatch": "1475",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0782",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/782.png",
+    "Name": "Jangmo-o",
+    "Type": {
+      "Typo1": "dragon"
+    },
+    "Egg Distance": "Adventure Sync - 10km",
+    "Max CP At Hatch": "553",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0935",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/935.png",
+    "Name": "Charcadet",
+    "Type": {
+      "Typo1": "fire"
+    },
+    "Egg Distance": "10km",
+    "Max CP At Hatch": "418",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0996",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/996.png",
+    "Name": "Frigibax",
+    "Type": {
+      "Typo1": "dragon",
+      "Typo2": "ice"
+    },
+    "Egg Distance": "10km",
+    "Max CP At Hatch": "713",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0037",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/037-a.png",
+    "Name": "Vulpix",
+    "Type": {
+      "Typo1": "ice"
+    },
+    "Egg Distance": "Routes - 7km",
+    "Max CP At Hatch": "504",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0215",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/215-h.png",
+    "Name": "Sneasel",
+    "Type": {
+      "Typo1": "fighting",
+      "Typo2": "poison"
+    },
+    "Egg Distance": "Routes - 7km",
+    "Max CP At Hatch": "1172",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0222",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/222-g.png",
+    "Name": "Corsola",
+    "Type": {
+      "Typo1": "ghost"
+    },
+    "Egg Distance": "7km",
+    "Max CP At Hatch": "855",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0550",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/550-w.png",
+    "Name": "Basculin",
+    "Type": {
+      "Typo1": "water"
+    },
+    "Egg Distance": "Routes - 7km",
+    "Max CP At Hatch": "1194",
+    "Shiny": "si"
+  },
+  {
+    "No.": "#0624",
+    "Pic": "https://www.serebii.net/pokemongo/pokemon/624.png",
+    "Name": "Pawniard",
+    "Type": {
+      "Typo1": "dark",
+      "Typo2": "steel"
+    },
+    "Egg Distance": "Routes - 7km",
+    "Max CP At Hatch": "819",
+    "Shiny": "si"
+  }
+]
