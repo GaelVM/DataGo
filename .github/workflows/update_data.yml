@@ -12,59 +12,71 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Clonar el repositorio
+      # 🧾 Clonar repositorio
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      # 2. Configurar Python
+      # 🐍 Configurar Python
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: 3.8
 
-      # 3. Instalar dependencias
-      - name: Install Python and System Dependencies
+      # 📦 Instalar dependencias de Python
+      - name: Install Python Dependencies
         run: |
-          pip install requests beautifulsoup4 selenium webdriver-manager
-          sudo apt-get update
-          wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-          sudo apt-get install -y ./google-chrome-stable_current_amd64.deb
+          pip install requests
+          pip install beautifulsoup4
 
-      # 4. Ejecutar scripts Python
-      - name: Run Python Scripts
+      # 🧠 Ejecutar scripts de scraping
+      - name: Run bosses.py
+        run: python bosses.py
+
+      - name: Run shinyrank.py
+        run: python shinyrank.py
+
+      - name: Run destacados.py
+        run: python destacados.py
+
+      - name: Run legendarios.py
+        run: python legendarios.py
+
+      - name: Run shinys.py
+        run: python shinys.py
+
+      # 📂 Mover todos los archivos generados de /temp al directorio raíz
+      - name: Move JSON Files to Root Directory
         run: |
-          python bosses.py
-          python noticias.py
-          python shinyrank.py
-          python destacados.py
-          python legendarios.py
-          python shinys.py
+          mv temp/*.json ./
 
-      # 5. Mover archivos JSON desde temp/ a la raíz
-      - name: Move JSON Files to Root
+      # 🩹 Añadir línea vacía para evitar errores con archivos vacíos (opcional, específico)
+      - name: Patch JSON Files
         run: |
-          mv temp/bossraid.json .
-          mv temp/noticias.json .
-          mv temp/rankshiny.json .
-          mv temp/destacados.json .
-          mv temp/raid_hour.json .
-          mv temp/shinys.json
+          echo "" >> bossraid.json
+          echo "" >> rankshiny.json
+          echo "" >> destacados.json
+          echo "" >> raid_hour.json
+          echo "" >> shinys.json
 
-      # 6. Confirmar cambios en archivos JSON
+      # 📤 Commit de archivos generados
       - name: Commit JSON Changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git switch --orphan data
-          git add bossraid.json eggs.json noticias.json rankshiny.json destacados.json raid_hour.json shinys.json
+          git add bossraid.json
+          git add rankshiny.json
+          git add destacados.json
+          git add raid_hour.json
+          git add shinys.json
           git commit -m "Datos actualizados 🤖🍺"
 
-      # 7. Eliminar carpeta temporal
-      - name: Clean Temp Folder
+      # 🧹 Limpiar carpeta temporal
+      - name: Remove Temp Folder
         run: rm -r temp
 
-      # 8. Hacer push de la rama `data`
-      - name: Push Data Branch (JrVM)
+      # 🚀 Push a la rama data
+      - name: Push to Data Branch (JrVM)
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
