@@ -1,15 +1,15 @@
 from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
-import json
-import os
-import time
 
-# Configurar navegador en modo headless
 options = Options()
-options.add_argument("--headless")
-options.add_argument("--disable-gpu")
-driver = webdriver.Chrome(options=options)
+options.add_argument('--headless')
+options.add_argument('--no-sandbox')
+options.add_argument('--disable-dev-shm-usage')
+
+# Usa webdriver-manager para resolver versiones automáticamente
+driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
 # Cargar la página
 driver.get("https://pokemongolive.com/news/?hl=es")
