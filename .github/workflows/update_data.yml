@@ -8,77 +8,80 @@ on:
     - cron: '*/10 * * * *'  # Ejecutar cada 10 minutos
 
 jobs:
-  update-raid-data:
-    runs-on: ubuntu-latest
+      update-raid-data:
+        runs-on: ubuntu-latest
+    
+        steps:
+        - name: Checkout Repository
+          uses: actions/checkout@v2
+    
+        - name: Set up Python
+          uses: actions/setup-python@v2
+          with:
+            python-version: 3.8
+    
+        - name: Install Dependencies
+          run: |
+            pip install requests
+            pip install beautifulsoup4
+            
+    
+        - name: Run Python Script
+          run: python bosses.py
+        
+        - name: Run Python Script
+          run: python shinyrank.py
+        
+        - name: Run Python Script
+          run: python destacados.py
 
-    steps:
-      # 🧾 Clonar repositorio
-      - name: Checkout Repository
-        uses: actions/checkout@v2
+        - name: Run Python Script
+          run: python legendarios.py
 
-      # 🐍 Configurar Python
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: 3.8
+        - name: Run Python Script
+          run: python shinys.py
+    
+        - name: Move JSON File to Working Directory
+          run: mv temp/bossraid.json ./
+        
+        - name: Move JSON File to Working Directory
+          run: mv temp/rankshiny.json ./
 
-      # 📦 Instalar dependencias de Python
-      - name: Install Python Dependencies
-        run: |
-          pip install requests
-          pip install beautifulsoup4
+        - name: Move JSON File to Working Directory
+          run: mv temp/destacados.json ./
 
-      # 🧠 Ejecutar scripts de scraping
-      - name: Run bosses.py
-        run: python bosses.py
+        - name: Move JSON File to Working Directory
+          run: mv temp/raid_hour.json ./
 
-      - name: Run shinyrank.py
-        run: python shinyrank.py
-
-      - name: Run destacados.py
-        run: python destacados.py
-
-      - name: Run legendarios.py
-        run: python legendarios.py
-
-      - name: Run shinys.py
-        run: python shinys.py
-
-      # 📂 Mover todos los archivos generados de /temp al directorio raíz
-      - name: Move JSON Files to Root Directory
-        run: |
-          mv temp/*.json ./
-
-      # 🩹 Añadir línea vacía para evitar errores con archivos vacíos (opcional, específico)
-      - name: Patch JSON Files
-        run: |
-          echo "" >> bossraid.json
-          echo "" >> rankshiny.json
-          echo "" >> destacados.json
-          echo "" >> raid_hour.json
-          echo "" >> shinys.json
-
-      # 📤 Commit de archivos generados
-      - name: Commit JSON Changes
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git switch --orphan data
-          git add bossraid.json
-          git add rankshiny.json
-          git add destacados.json
-          git add raid_hour.json
-          git add shinys.json
-          git commit -m "Datos actualizados 🤖🍺"
-
-      # 🧹 Limpiar carpeta temporal
-      - name: Remove Temp Folder
-        run: rm -r temp
-
-      # 🚀 Push a la rama data
-      - name: Push to Data Branch (JrVM)
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: data
-          force: true
+        - name: Move JSON File to Working Directory
+          run: mv temp/shinys.json ./
+         
+        - name: Modify JSON File
+          run: |
+              echo "" >> bossraid.json
+              echo "" >> rankshiny.json
+              echo "" >> destacados.json
+              echo "" >> raid_hour.json
+              echo "" >> shinys.json
+        
+        - name: Commit JSON Changes
+          run: |
+            git config --local user.email "github-actions[bot]@users.noreply.github.com"
+            git config --local user.name "github-actions[bot]"
+            git switch --orphan data
+            git add bossraid.json
+            git add rankshiny.json
+            git add destacados.json
+            git add raid_hour.json
+            git add shinys.json
+            git commit -m "Datos actualizados 🤖🍺"
+    
+        - name: Remove Temp Folder
+          run: rm -r temp
+    
+        - name: Push Data Branch (JrVM)
+          uses: ad-m/github-push-action@v0.6.0
+          with:
+            github_token: ${{ secrets.GITHUB_TOKEN }}
+            branch: data
+            force: true
