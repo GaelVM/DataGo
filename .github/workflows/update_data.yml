@@ -34,7 +34,6 @@ jobs:
       - name: Run Python Scripts
         run: |
           python bosses.py
-          python eggs.py
           python noticias.py
           python shinyrank.py
           python destacados.py
@@ -45,7 +44,6 @@ jobs:
       - name: Move JSON Files to Root
         run: |
           mv temp/bossraid.json .
-          mv temp/eggs.json .
           mv temp/noticias.json .
           mv temp/rankshiny.json .
           mv temp/destacados.json .
