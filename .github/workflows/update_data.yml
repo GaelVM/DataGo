@@ -24,6 +24,10 @@ jobs:
           run: |
             pip install requests
             pip install beautifulsoup4
+            pip install selenium
+            sudo apt-get update
+            sudo apt-get install -y chromium-chromedriver
+            sudo cp /usr/lib/chromium-browser/chromedriver /usr/bin
     
         - name: Run Python Script
           run: python bosses.py
