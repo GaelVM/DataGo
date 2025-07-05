@@ -1,0 +1,1226 @@
+[
+  {
+    "id": "1",
+    "name": "Bulbasaur",
+    "rate": "1/499",
+    "total": "63,482",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/1_s.png",
+    "rank": 92
+  },
+  {
+    "id": "4",
+    "name": "Charmander",
+    "rate": "1/501",
+    "total": "64,630",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/4_s.png",
+    "rank": 95
+  },
+  {
+    "id": "7",
+    "name": "Squirtle",
+    "rate": "1/500",
+    "total": "80,112",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/7_s.png",
+    "rank": 93
+  },
+  {
+    "id": "10",
+    "name": "Caterpie",
+    "rate": "1/843",
+    "total": "5,059",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/10_s.png",
+    "rank": 136
+  },
+  {
+    "id": "13",
+    "name": "Weedle",
+    "rate": "1/168",
+    "total": "168",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/13_s.png",
+    "rank": 17
+  },
+  {
+    "id": "16",
+    "name": "Pidgey",
+    "rate": "1/398",
+    "total": "5,973",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/16_s.png",
+    "rank": 62
+  },
+  {
+    "id": "19",
+    "name": "Rattata",
+    "rate": "1/471",
+    "total": "1,886",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/19_s.png",
+    "rank": 86
+  },
+  {
+    "id": "21",
+    "name": "Spearow",
+    "rate": "1/417",
+    "total": "4,594",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/21_s.png",
+    "rank": 66
+  },
+  {
+    "id": "23",
+    "name": "Ekans",
+    "rate": "1/345",
+    "total": "1,382",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/23_s.png",
+    "rank": 49
+  },
+  {
+    "id": "27",
+    "name": "Sandshrew",
+    "rate": "1/661",
+    "total": "1,322",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/27_s.png",
+    "rank": 126
+  },
+  {
+    "id": "29",
+    "name": "Nidoran♀",
+    "rate": "1/1,298",
+    "total": "1,298",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/29_s.png",
+    "rank": 150
+  },
+  {
+    "id": "32",
+    "name": "Nidoran♂",
+    "rate": "1/464",
+    "total": "4,184",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/32_s.png",
+    "rank": 81
+  },
+  {
+    "id": "35",
+    "name": "Clefairy",
+    "rate": "1/327",
+    "total": "2,948",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/35_s.png",
+    "rank": 43
+  },
+  {
+    "id": "37",
+    "name": "Vulpix",
+    "rate": "1/1,720",
+    "total": "1,720",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/37_s.png",
+    "rank": 152
+  },
+  {
+    "id": "39",
+    "name": "Jigglypuff",
+    "rate": "1/339",
+    "total": "4,068",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/39_s.png",
+    "rank": 47
+  },
+  {
+    "id": "41",
+    "name": "Zubat",
+    "rate": "1/354",
+    "total": "1,062",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/41_s.png",
+    "rank": 51
+  },
+  {
+    "id": "43",
+    "name": "Oddish",
+    "rate": "1/409",
+    "total": "7,366",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/43_s.png",
+    "rank": 65
+  },
+  {
+    "id": "46",
+    "name": "Paras",
+    "rate": "1/719",
+    "total": "5,756",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/46_s.png",
+    "rank": 132
+  },
+  {
+    "id": "48",
+    "name": "Venonat",
+    "rate": "1/515",
+    "total": "3,094",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/48_s.png",
+    "rank": 99
+  },
+  {
+    "id": "52",
+    "name": "Meowth",
+    "rate": "1/316",
+    "total": "6,637",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/52_s.png",
+    "rank": 39
+  },
+  {
+    "id": "54",
+    "name": "Psyduck",
+    "rate": "1/360",
+    "total": "3,602",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/54_s.png",
+    "rank": 52
+  },
+  {
+    "id": "56",
+    "name": "Mankey",
+    "rate": "1/419",
+    "total": "5,876",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/56_s.png",
+    "rank": 67
+  },
+  {
+    "id": "58",
+    "name": "Growlithe",
+    "rate": "1/565",
+    "total": "5,087",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/58_s.png",
+    "rank": 110
+  },
+  {
+    "id": "60",
+    "name": "Poliwag",
+    "rate": "1/430",
+    "total": "2,152",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/60_s.png",
+    "rank": 70
+  },
+  {
+    "id": "63",
+    "name": "Abra",
+    "rate": "1/320",
+    "total": "2,887",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/63_s.png",
+    "rank": 42
+  },
+  {
+    "id": "66",
+    "name": "Machop",
+    "rate": "1/473",
+    "total": "8,047",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/66_s.png",
+    "rank": 87
+  },
+  {
+    "id": "69",
+    "name": "Bellsprout",
+    "rate": "1/847",
+    "total": "847",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/69_s.png",
+    "rank": 137
+  },
+  {
+    "id": "74",
+    "name": "Geodude",
+    "rate": "1/446",
+    "total": "2,676",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/74_s.png",
+    "rank": 73
+  },
+  {
+    "id": "77",
+    "name": "Ponyta",
+    "rate": "1/582",
+    "total": "582",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/77_s.png",
+    "rank": 115
+  },
+  {
+    "id": "81",
+    "name": "Magnemite",
+    "rate": "1/500",
+    "total": "6,010",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/81_s.png",
+    "rank": 94
+  },
+  {
+    "id": "88",
+    "name": "Grimer",
+    "rate": "1/331",
+    "total": "4,308",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/88_s.png",
+    "rank": 44
+  },
+  {
+    "id": "92",
+    "name": "Gastly",
+    "rate": "1/463",
+    "total": "4,173",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/92_s.png",
+    "rank": 79
+  },
+  {
+    "id": "95",
+    "name": "Onix",
+    "rate": "1/44",
+    "total": "355",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/95_s.png",
+    "rank": 3
+  },
+  {
+    "id": "96",
+    "name": "Drowzee",
+    "rate": "1/652",
+    "total": "1,957",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/96_s.png",
+    "rank": 124
+  },
+  {
+    "id": "100",
+    "name": "Voltorb",
+    "rate": "1/435",
+    "total": "2,613",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/100_s.png",
+    "rank": 71
+  },
+  {
+    "id": "102",
+    "name": "Exeggcute",
+    "rate": "1/396",
+    "total": "2,377",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/102_s.png",
+    "rank": 60
+  },
+  {
+    "id": "106",
+    "name": "Hitmonlee",
+    "rate": "1/905",
+    "total": "905",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/106_s.png",
+    "rank": 145
+  },
+  {
+    "id": "107",
+    "name": "Hitmonchan",
+    "rate": "1/222",
+    "total": "890",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/107_s.png",
+    "rank": 21
+  },
+  {
+    "id": "108",
+    "name": "Lickitung",
+    "rate": "1/51",
+    "total": "1,379",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/108_s.png",
+    "rank": 6
+  },
+  {
+    "id": "109",
+    "name": "Koffing",
+    "rate": "1/468",
+    "total": "3,281",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/109_s.png",
+    "rank": 84
+  },
+  {
+    "id": "111",
+    "name": "Rhyhorn",
+    "rate": "1/364",
+    "total": "1,821",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/111_s.png",
+    "rank": 54
+  },
+  {
+    "id": "113",
+    "name": "Chansey",
+    "rate": "1/45",
+    "total": "857",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/113_s.png",
+    "rank": 4
+  },
+  {
+    "id": "114",
+    "name": "Tangela",
+    "rate": "1/452",
+    "total": "1,356",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/114_s.png",
+    "rank": 76
+  },
+  {
+    "id": "115",
+    "name": "Kangaskhan",
+    "rate": "1/117",
+    "total": "1,057",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/115_s.png",
+    "rank": 9
+  },
+  {
+    "id": "118",
+    "name": "Goldeen",
+    "rate": "1/275",
+    "total": "825",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/118_s.png",
+    "rank": 28
+  },
+  {
+    "id": "122",
+    "name": "Mr. Mime",
+    "rate": "1/280",
+    "total": "561",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/122_s.png",
+    "rank": 30
+  },
+  {
+    "id": "123",
+    "name": "Scyther",
+    "rate": "1/59",
+    "total": "1,182",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/123_s.png",
+    "rank": 8
+  },
+  {
+    "id": "126",
+    "name": "Magmar",
+    "rate": "1/364",
+    "total": "364",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/126_s.png",
+    "rank": 55
+  },
+  {
+    "id": "127",
+    "name": "Pinsir",
+    "rate": "1/131",
+    "total": "131",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/127_s.png",
+    "rank": 10
+  },
+  {
+    "id": "128",
+    "name": "Tauros",
+    "rate": "1/277",
+    "total": "2,216",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/128_s.png",
+    "rank": 29
+  },
+  {
+    "id": "133",
+    "name": "Eevee",
+    "rate": "1/25",
+    "total": "1,105,238",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/133_s.png",
+    "rank": 2
+  },
+  {
+    "id": "137",
+    "name": "Porygon",
+    "rate": "1/312",
+    "total": "1,250",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/137_s.png",
+    "rank": 38
+  },
+  {
+    "id": "170",
+    "name": "Chinchou",
+    "rate": "1/340",
+    "total": "340",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/170_s.png",
+    "rank": 48
+  },
+  {
+    "id": "177",
+    "name": "Natu",
+    "rate": "1/318",
+    "total": "2,227",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/177_s.png",
+    "rank": 41
+  },
+  {
+    "id": "183",
+    "name": "Marill",
+    "rate": "1/227",
+    "total": "227",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/183_s.png",
+    "rank": 23
+  },
+  {
+    "id": "190",
+    "name": "Aipom",
+    "rate": "1/362",
+    "total": "725",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/190_s.png",
+    "rank": 53
+  },
+  {
+    "id": "193",
+    "name": "Yanma",
+    "rate": "1/317",
+    "total": "1,586",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/193_s.png",
+    "rank": 40
+  },
+  {
+    "id": "200",
+    "name": "Misdreavus",
+    "rate": "1/346",
+    "total": "2,424",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/200_s.png",
+    "rank": 50
+  },
+  {
+    "id": "206",
+    "name": "Dunsparce",
+    "rate": "1/468",
+    "total": "2,343",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/206_s.png",
+    "rank": 85
+  },
+  {
+    "id": "209",
+    "name": "Snubbull",
+    "rate": "1/467",
+    "total": "1,871",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/209_s.png",
+    "rank": 82
+  },
+  {
+    "id": "215",
+    "name": "Sneasel",
+    "rate": "1/157",
+    "total": "157",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/215_s.png",
+    "rank": 15
+  },
+  {
+    "id": "216",
+    "name": "Teddiursa",
+    "rate": "1/1,209",
+    "total": "1,209",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/216_s.png",
+    "rank": 149
+  },
+  {
+    "id": "222",
+    "name": "Corsola",
+    "rate": "1/423",
+    "total": "847",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/222_s.png",
+    "rank": 69
+  },
+  {
+    "id": "228",
+    "name": "Houndour",
+    "rate": "1/2,009",
+    "total": "2,009",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/228_s.png",
+    "rank": 153
+  },
+  {
+    "id": "252",
+    "name": "Treecko",
+    "rate": "1/570",
+    "total": "1,710",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/252_s.png",
+    "rank": 111
+  },
+  {
+    "id": "255",
+    "name": "Torchic",
+    "rate": "1/715",
+    "total": "1,430",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/255_s.png",
+    "rank": 131
+  },
+  {
+    "id": "258",
+    "name": "Mudkip",
+    "rate": "1/609",
+    "total": "1,827",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/258_s.png",
+    "rank": 120
+  },
+  {
+    "id": "261",
+    "name": "Poochyena",
+    "rate": "1/534",
+    "total": "2,139",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/261_s.png",
+    "rank": 106
+  },
+  {
+    "id": "263",
+    "name": "Zigzagoon",
+    "rate": "1/269",
+    "total": "539",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/263_s.png",
+    "rank": 26
+  },
+  {
+    "id": "265",
+    "name": "Wurmple",
+    "rate": "1/394",
+    "total": "2,763",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/265_s.png",
+    "rank": 58
+  },
+  {
+    "id": "276",
+    "name": "Taillow",
+    "rate": "1/285",
+    "total": "2,571",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/276_s.png",
+    "rank": 33
+  },
+  {
+    "id": "280",
+    "name": "Ralts",
+    "rate": "1/311",
+    "total": "933",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/280_s.png",
+    "rank": 37
+  },
+  {
+    "id": "287",
+    "name": "Slakoth",
+    "rate": "1/182",
+    "total": "547",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/287_s.png",
+    "rank": 18
+  },
+  {
+    "id": "296",
+    "name": "Makuhita",
+    "rate": "1/1,325",
+    "total": "1,325",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/296_s.png",
+    "rank": 151
+  },
+  {
+    "id": "307",
+    "name": "Meditite",
+    "rate": "1/132",
+    "total": "396",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/307_s.png",
+    "rank": 11
+  },
+  {
+    "id": "309",
+    "name": "Electrike",
+    "rate": "1/439",
+    "total": "1,757",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/309_s.png",
+    "rank": 72
+  },
+  {
+    "id": "313",
+    "name": "Volbeat",
+    "rate": "1/259",
+    "total": "2,599",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/313_s.png",
+    "rank": 25
+  },
+  {
+    "id": "314",
+    "name": "Illumise",
+    "rate": "1/725",
+    "total": "2,176",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/314_s.png",
+    "rank": 133
+  },
+  {
+    "id": "316",
+    "name": "Gulpin",
+    "rate": "1/655",
+    "total": "2,622",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/316_s.png",
+    "rank": 125
+  },
+  {
+    "id": "322",
+    "name": "Numel",
+    "rate": "1/533",
+    "total": "1,599",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/322_s.png",
+    "rank": 105
+  },
+  {
+    "id": "325",
+    "name": "Spoink",
+    "rate": "1/540",
+    "total": "2,703",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/325_s.png",
+    "rank": 107
+  },
+  {
+    "id": "328",
+    "name": "Trapinch",
+    "rate": "1/986",
+    "total": "986",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/328_s.png",
+    "rank": 147
+  },
+  {
+    "id": "333",
+    "name": "Swablu",
+    "rate": "1/374",
+    "total": "2,619",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/333_s.png",
+    "rank": 56
+  },
+  {
+    "id": "335",
+    "name": "Zangoose",
+    "rate": "1/692",
+    "total": "3,463",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/335_s.png",
+    "rank": 128
+  },
+  {
+    "id": "336",
+    "name": "Seviper",
+    "rate": "1/335",
+    "total": "3,021",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/336_s.png",
+    "rank": 46
+  },
+  {
+    "id": "337",
+    "name": "Lunatone",
+    "rate": "1/479",
+    "total": "3,354",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/337_s.png",
+    "rank": 88
+  },
+  {
+    "id": "338",
+    "name": "Solrock",
+    "rate": "1/513",
+    "total": "3,591",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/338_s.png",
+    "rank": 97
+  },
+  {
+    "id": "355",
+    "name": "Duskull",
+    "rate": "1/396",
+    "total": "1,189",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/355_s.png",
+    "rank": 61
+  },
+  {
+    "id": "363",
+    "name": "Spheal",
+    "rate": "1/140",
+    "total": "701",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/363_s.png",
+    "rank": 13
+  },
+  {
+    "id": "370",
+    "name": "Luvdisc",
+    "rate": "1/258",
+    "total": "516",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/370_s.png",
+    "rank": 24
+  },
+  {
+    "id": "387",
+    "name": "Turtwig",
+    "rate": "1/628",
+    "total": "628",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/387_s.png",
+    "rank": 122
+  },
+  {
+    "id": "393",
+    "name": "Piplup",
+    "rate": "1/384",
+    "total": "769",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/393_s.png",
+    "rank": 57
+  },
+  {
+    "id": "412",
+    "name": "Burmy",
+    "rate": "1/223",
+    "total": "892",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/412_s.png",
+    "rank": 22
+  },
+  {
+    "id": "415",
+    "name": "Combee",
+    "rate": "1/859",
+    "total": "1,718",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/415_s.png",
+    "rank": 140
+  },
+  {
+    "id": "422",
+    "name": "Shellos",
+    "rate": "1/394",
+    "total": "6,711",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/422_s.png",
+    "rank": 59
+  },
+  {
+    "id": "431",
+    "name": "Glameow",
+    "rate": "1/213",
+    "total": "1,069",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/431_s.png",
+    "rank": 20
+  },
+  {
+    "id": "434",
+    "name": "Stunky",
+    "rate": "1/398",
+    "total": "1,990",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/434_s.png",
+    "rank": 63
+  },
+  {
+    "id": "441",
+    "name": "Chatot",
+    "rate": "1/286",
+    "total": "1,719",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/441_s.png",
+    "rank": 34
+  },
+  {
+    "id": "480",
+    "name": "Uxie",
+    "rate": "1/3",
+    "total": "3",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/480_s.png",
+    "rank": 1
+  },
+  {
+    "id": "495",
+    "name": "Snivy",
+    "rate": "1/447",
+    "total": "34,420",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/495_s.png",
+    "rank": 75
+  },
+  {
+    "id": "498",
+    "name": "Tepig",
+    "rate": "1/421",
+    "total": "34,125",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/498_s.png",
+    "rank": 68
+  },
+  {
+    "id": "501",
+    "name": "Oshawott",
+    "rate": "1/531",
+    "total": "34,531",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/501_s.png",
+    "rank": 104
+  },
+  {
+    "id": "506",
+    "name": "Lillipup",
+    "rate": "1/467",
+    "total": "2,337",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/506_s.png",
+    "rank": 83
+  },
+  {
+    "id": "511",
+    "name": "Pansage",
+    "rate": "1/700",
+    "total": "2,801",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/511_s.png",
+    "rank": 130
+  },
+  {
+    "id": "513",
+    "name": "Pansear",
+    "rate": "1/200",
+    "total": "802",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/513_s.png",
+    "rank": 19
+  },
+  {
+    "id": "515",
+    "name": "Panpour",
+    "rate": "1/570",
+    "total": "3,422",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/515_s.png",
+    "rank": 112
+  },
+  {
+    "id": "519",
+    "name": "Pidove",
+    "rate": "1/404",
+    "total": "1,213",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/519_s.png",
+    "rank": 64
+  },
+  {
+    "id": "522",
+    "name": "Blitzle",
+    "rate": "1/506",
+    "total": "2,534",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/522_s.png",
+    "rank": 96
+  },
+  {
+    "id": "529",
+    "name": "Drilbur",
+    "rate": "1/557",
+    "total": "2,228",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/529_s.png",
+    "rank": 108
+  },
+  {
+    "id": "532",
+    "name": "Timburr",
+    "rate": "1/52",
+    "total": "990",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/532_s.png",
+    "rank": 7
+  },
+  {
+    "id": "538",
+    "name": "Throh",
+    "rate": "1/282",
+    "total": "3,386",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/538_s.png",
+    "rank": 31
+  },
+  {
+    "id": "539",
+    "name": "Sawk",
+    "rate": "1/514",
+    "total": "3,601",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/539_s.png",
+    "rank": 98
+  },
+  {
+    "id": "540",
+    "name": "Sewaddle",
+    "rate": "1/875",
+    "total": "1,751",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/540_s.png",
+    "rank": 142
+  },
+  {
+    "id": "543",
+    "name": "Venipede",
+    "rate": "1/591",
+    "total": "2,366",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/543_s.png",
+    "rank": 118
+  },
+  {
+    "id": "557",
+    "name": "Dwebble",
+    "rate": "1/604",
+    "total": "604",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/557_s.png",
+    "rank": 119
+  },
+  {
+    "id": "572",
+    "name": "Minccino",
+    "rate": "1/306",
+    "total": "1,841",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/572_s.png",
+    "rank": 35
+  },
+  {
+    "id": "585",
+    "name": "Deerling",
+    "rate": "1/695",
+    "total": "2,780",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/585_s.png",
+    "rank": 129
+  },
+  {
+    "id": "587",
+    "name": "Emolga",
+    "rate": "1/490",
+    "total": "1,472",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/587_s.png",
+    "rank": 91
+  },
+  {
+    "id": "595",
+    "name": "Joltik",
+    "rate": "1/848",
+    "total": "848",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/595_s.png",
+    "rank": 138
+  },
+  {
+    "id": "597",
+    "name": "Ferroseed",
+    "rate": "1/589",
+    "total": "2,358",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/597_s.png",
+    "rank": 117
+  },
+  {
+    "id": "607",
+    "name": "Litwick",
+    "rate": "1/821",
+    "total": "821",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/607_s.png",
+    "rank": 135
+  },
+  {
+    "id": "613",
+    "name": "Cubchoo",
+    "rate": "1/899",
+    "total": "899",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/613_s.png",
+    "rank": 143
+  },
+  {
+    "id": "626",
+    "name": "Bouffalant",
+    "rate": "1/871",
+    "total": "2,615",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/626_s.png",
+    "rank": 141
+  },
+  {
+    "id": "631",
+    "name": "Heatmor",
+    "rate": "1/520",
+    "total": "3,644",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/631_s.png",
+    "rank": 101
+  },
+  {
+    "id": "632",
+    "name": "Durant",
+    "rate": "1/485",
+    "total": "3,395",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/632_s.png",
+    "rank": 90
+  },
+  {
+    "id": "650",
+    "name": "Chespin",
+    "rate": "1/579",
+    "total": "34,176",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/650_s.png",
+    "rank": 114
+  },
+  {
+    "id": "653",
+    "name": "Fennekin",
+    "rate": "1/530",
+    "total": "34,508",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/653_s.png",
+    "rank": 103
+  },
+  {
+    "id": "656",
+    "name": "Froakie",
+    "rate": "1/570",
+    "total": "34,241",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/656_s.png",
+    "rank": 113
+  },
+  {
+    "id": "667",
+    "name": "Litleo",
+    "rate": "1/903",
+    "total": "1,806",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/667_s.png",
+    "rank": 144
+  },
+  {
+    "id": "676",
+    "name": "Furfrou",
+    "rate": "1/462",
+    "total": "462",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/676_s.png",
+    "rank": 78
+  },
+  {
+    "id": "677",
+    "name": "Espurr",
+    "rate": "1/45",
+    "total": "866",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/677_s.png",
+    "rank": 5
+  },
+  {
+    "id": "682",
+    "name": "Spritzee",
+    "rate": "1/618",
+    "total": "3,093",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/682_s.png",
+    "rank": 121
+  },
+  {
+    "id": "684",
+    "name": "Swirlix",
+    "rate": "1/283",
+    "total": "567",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/684_s.png",
+    "rank": 32
+  },
+  {
+    "id": "704",
+    "name": "Goomy",
+    "rate": "1/152",
+    "total": "152",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/704_s.png",
+    "rank": 14
+  },
+  {
+    "id": "714",
+    "name": "Noibat",
+    "rate": "1/457",
+    "total": "457",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/714_s.png",
+    "rank": 77
+  },
+  {
+    "id": "722",
+    "name": "Rowlet",
+    "rate": "1/517",
+    "total": "34,672",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/722_s.png",
+    "rank": 100
+  },
+  {
+    "id": "725",
+    "name": "Litten",
+    "rate": "1/463",
+    "total": "34,768",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/725_s.png",
+    "rank": 80
+  },
+  {
+    "id": "728",
+    "name": "Popplio",
+    "rate": "1/521",
+    "total": "34,417",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/728_s.png",
+    "rank": 102
+  },
+  {
+    "id": "734",
+    "name": "Yungoos",
+    "rate": "1/922",
+    "total": "922",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/734_s.png",
+    "rank": 146
+  },
+  {
+    "id": "736",
+    "name": "Grubbin",
+    "rate": "1/744",
+    "total": "2,976",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/736_s.png",
+    "rank": 134
+  },
+  {
+    "id": "742",
+    "name": "Cutiefly",
+    "rate": "1/161",
+    "total": "645",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/742_s.png",
+    "rank": 16
+  },
+  {
+    "id": "753",
+    "name": "Fomantis",
+    "rate": "1/584",
+    "total": "1,169",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/753_s.png",
+    "rank": 116
+  },
+  {
+    "id": "755",
+    "name": "Morelull",
+    "rate": "1/139",
+    "total": "835",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/755_s.png",
+    "rank": 12
+  },
+  {
+    "id": "759",
+    "name": "Stufful",
+    "rate": "1/647",
+    "total": "2,591",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/759_s.png",
+    "rank": 123
+  },
+  {
+    "id": "761",
+    "name": "Bounsweet",
+    "rate": "1/333",
+    "total": "2,336",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/761_s.png",
+    "rank": 45
+  },
+  {
+    "id": "766",
+    "name": "Passimian",
+    "rate": "1/479",
+    "total": "479",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/766_s.png",
+    "rank": 89
+  },
+  {
+    "id": "769",
+    "name": "Sandygast",
+    "rate": "1/269",
+    "total": "2,429",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/769_s.png",
+    "rank": 27
+  },
+  {
+    "id": "775",
+    "name": "Komala",
+    "rate": "1/690",
+    "total": "690",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/775_s.png",
+    "rank": 127
+  },
+  {
+    "id": "819",
+    "name": "Skwovet",
+    "rate": "1/306",
+    "total": "3,065",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/819_s.png",
+    "rank": 36
+  },
+  {
+    "id": "831",
+    "name": "Wooloo",
+    "rate": "1/1,204",
+    "total": "1,204",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/831_s.png",
+    "rank": 148
+  },
+  {
+    "id": "906",
+    "name": "Sprigatito",
+    "rate": "1/563",
+    "total": "62,507",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/906_s.png",
+    "rank": 109
+  },
+  {
+    "id": "909",
+    "name": "Fuecoco",
+    "rate": "1/446",
+    "total": "63,008",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/909_s.png",
+    "rank": 74
+  },
+  {
+    "id": "928",
+    "name": "Smoliv",
+    "rate": "1/852",
+    "total": "852",
+    "img": "https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/928_s.png",
+    "rank": 139
+  }
+]
