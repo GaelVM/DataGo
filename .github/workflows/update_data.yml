@@ -26,21 +26,24 @@ jobs:
             pip install beautifulsoup4
             
     
-        - name: Run Python Script
+        - name: Extraer jefes
           run: python bosses.py
         
-        - name: Run Python Script
+        - name: Extraer shiny rank
           run: python shinyrank.py
         
-        - name: Run Python Script
+        - name: Extraer destacados
           run: python destacados.py
 
-        - name: Run Python Script
+        - name: Extraer legendarios
           run: python legendarios.py
 
-        - name: Run Python Script
+        - name: Extraer sbinys
           run: python shinys.py
-    
+          
+        - name: Extraer noticias
+          run: python noticias.py
+
         - name: Move JSON File to Working Directory
           run: mv temp/bossraid.json ./
         
@@ -55,7 +58,10 @@ jobs:
 
         - name: Move JSON File to Working Directory
           run: mv temp/shinys.json ./
-         
+        
+        - name: Move JSON File to Working Directory
+          run: mv temp/noticias.json ./
+
         - name: Modify JSON File
           run: |
               echo "" >> bossraid.json
@@ -63,6 +69,7 @@ jobs:
               echo "" >> destacados.json
               echo "" >> raid_hour.json
               echo "" >> shinys.json
+              echo "" >> noticias.json
         
         - name: Commit JSON Changes
           run: |
@@ -74,6 +81,7 @@ jobs:
             git add destacados.json
             git add raid_hour.json
             git add shinys.json
+            git add noticias.json
             git commit -m "Datos actualizados 🤖🍺"
     
         - name: Remove Temp Folder
