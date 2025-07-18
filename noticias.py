@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import json
 
 BASE_URL = "https://pokemongo.com"
-NEWS_URL = f"{BASE_URL}/es_mx/news"
+NEWS_URL = f"{BASE_URL}/es/news"
 OUTPUT_FILE = "temp/noticias.json"
 
 def scrape_latest_news():
