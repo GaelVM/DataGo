@@ -14,7 +14,7 @@ if response.status_code == 200:
 
     # Iterar sobre cada elemento y agregar la clave "img"
     for pokemon in data:
-        pokemon["img"] = f"https://raw.githubusercontent.com/GaelVM/DBImages/main/PokemonGo/Pokemon/Img/{pokemon['id']}.png"
+        pokemon["img"] = f"https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/{pokemon['id']}.png"
 
     # Función auxiliar para convertir la cadena en un número manejando comas y fracciones
     def parse_rate(rate):
