@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Jigglypuff",
+        "start": "2025-07-22T18:00:00.000",
+        "end": "2025-07-22T19:00:00.000",
+        "extraData": {
+            "name": "Jigglypuff",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_039_00.png",
+            "bonus": "Doble de caramelos por transferencia",
+            "list": [
+                {
+                    "name": "Jigglypuff",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_039_00.png"
+                }
+            ],
+            "bonusimg": "2× Transfer Candy"
+        }
+    },
+    {
+        "name": "Roggenrola",
+        "start": "2025-07-29T18:00:00.000",
+        "end": "2025-07-29T19:00:00.000",
+        "extraData": {
+            "name": "Roggenrola",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_524_00.png",
+            "bonus": "Doble de experiencia por evolución",
+            "list": [
+                {
+                    "name": "Roggenrola",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_524_00.png"
+                }
+            ],
+            "bonusimg": "2× Evolution XP"
+        }
+    }
+]
