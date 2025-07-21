@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import os
 
 BASE_URL = "https://pokemongo.com"
 NEWS_URL = f"{BASE_URL}/es/news"
@@ -12,16 +13,20 @@ def scrape_latest_news():
 
     news_list = []
 
-    for post in soup.select(".blogList__post"):
-        link = BASE_URL + post.get("href", "")
-        img_tag = post.select_one("img.image")
-        image = img_tag["src"] if img_tag else ""
-
-        date_tag = post.select_one(".blogList__post__content__date")
-        date = date_tag.get_text(strip=True) if date_tag else ""
-
-        title_tag = post.select_one(".blogList__post__content__title")
+    for card in soup.select('a[href^="/es/news/"], a[href^="/es/post/"]'):
+        link = BASE_URL + card.get("href", "")
+        
+        # Título de la noticia
+        title_tag = card.select_one("div._size\\:heading_1vw4u_16")
         title = title_tag.get_text(strip=True) if title_tag else ""
+        
+        # Fecha
+        date_tag = card.select_one("pg-date-format")
+        date = date_tag.get_text(strip=True) if date_tag else ""
+        
+        # Imagen
+        img_tag = card.select_one("img")
+        image = img_tag["src"] if img_tag and img_tag.has_attr("src") else ""
 
         news_list.append({
             "title": title,
@@ -33,7 +38,6 @@ def scrape_latest_news():
     return news_list
 
 def save_to_json(data, path):
-    import os
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
