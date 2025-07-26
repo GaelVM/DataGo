@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Roggenrola",
+        "start": "2025-07-29T18:00:00.000",
+        "end": "2025-07-29T19:00:00.000",
+        "extraData": {
+            "name": "Roggenrola",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_524_00.png",
+            "bonus": "Doble de experiencia por evolución",
+            "list": [
+                {
+                    "name": "Roggenrola",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_524_00.png"
+                }
+            ],
+            "bonusimg": "2× Evolution XP"
+        }
+    },
+    {
+        "name": "Swirlix",
+        "start": "2025-08-05T18:00:00.000",
+        "end": "2025-08-05T19:00:00.000",
+        "extraData": {
+            "name": "Swirlix",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_684_00.png",
+            "bonus": "Doble de polvo estelar por captura",
+            "list": [
+                {
+                    "name": "Swirlix",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_684_00.png"
+                }
+            ],
+            "bonusimg": "2× Catch Stardust"
+        }
+    },
+    {
+        "name": "Plusle, Minun",
+        "start": "2025-08-12T18:00:00.000",
+        "end": "2025-08-12T19:00:00.000",
+        "extraData": {
+            "name": "Plusle",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_311_00.png",
+            "bonus": "Doble de experiencia por captura",
+            "list": [
+                {
+                    "name": "Plusle",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_311_00.png"
+                },
+                {
+                    "name": "Minun",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_312_00.png"
+                }
+            ],
+            "bonusimg": "2× Catch XP"
+        }
+    },
+    {
+        "name": "Ralts",
+        "start": "2025-08-19T18:00:00.000",
+        "end": "2025-08-19T19:00:00.000",
+        "extraData": {
+            "name": "Ralts",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_280_00.png",
+            "bonus": "Doble de caramelos por captura",
+            "list": [
+                {
+                    "name": "Ralts",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_280_00.png"
+                }
+            ],
+            "bonusimg": "2× Catch Candy"
+        }
+    },
+    {
+        "name": "Lechonk",
+        "start": "2025-08-26T18:00:00.000",
+        "end": "2025-08-26T19:00:00.000",
+        "extraData": {
+            "name": "Lechonk",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm915.icon.png",
+            "bonus": "Doble de caramelos por transferencia",
+            "list": [
+                {
+                    "name": "Lechonk",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm915.icon.png"
+                }
+            ],
+            "bonusimg": "2× Transfer Candy"
+        }
+    }
+]
