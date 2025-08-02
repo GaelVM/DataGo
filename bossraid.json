@@ -1,0 +1,169 @@
+{
+  "1st Tier": [
+    {
+      "No Dex": "#0285",
+      "Boss Name": "Shroomish",
+      "Boss CP": "2,437",
+      "Max Capture CP": "463",
+      "Max Capture CP Bosst": "578",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_285_00.png"
+    },
+    {
+      "No Dex": "#0519",
+      "Boss Name": "Pidove",
+      "Boss CP": "2,697",
+      "Max Capture CP": "484",
+      "Max Capture CP Bosst": "605",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_519_00.png"
+    },
+    {
+      "No Dex": "#0590",
+      "Boss Name": "Foongus",
+      "Boss CP": "2,824",
+      "Max Capture CP": "559",
+      "Max Capture CP Bosst": "699",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_590_00.png"
+    },
+    {
+      "No Dex": "#0850",
+      "Boss Name": "Sizzlipede",
+      "Boss CP": "3,338",
+      "Max Capture CP": "599",
+      "Max Capture CP Bosst": "749",
+      "Shiny": "No",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_850_00.png"
+    }
+  ],
+  "3rd Tier": [
+    {
+      "No Dex": "#0047",
+      "Boss Name": "Parasect",
+      "Boss CP": "13,703",
+      "Max Capture CP": "1,062",
+      "Max Capture CP Bosst": "1,328",
+      "Shiny": "No",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_047_00.png"
+    },
+    {
+      "No Dex": "#0103",
+      "Boss Name": "Alolan Exeggutor",
+      "Boss CP": "19,053",
+      "Max Capture CP": "1,722",
+      "Max Capture CP Bosst": "2,153",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_103_00.png"
+    },
+    {
+      "No Dex": "#0497",
+      "Boss Name": "Serperior",
+      "Boss CP": "15,627",
+      "Max Capture CP": "1,301",
+      "Max Capture CP Bosst": "1,626",
+      "Shiny": "No",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_497_00.png"
+    }
+  ],
+  "5th Tier": [
+    {
+      "No Dex": "#0640",
+      "Boss Name": "Virizion",
+      "Boss CP": "39,601",
+      "Max Capture CP": "1,727",
+      "Max Capture CP Bosst": "2,159",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_640_00.png"
+    }
+  ],
+  "Mega Raids": [
+    {
+      "No Dex": "#0142",
+      "Boss Name": "Mega Aerodactyl",
+      "Boss CP": "43,686",
+      "Max Capture CP": "1,590",
+      "Max Capture CP Bosst": "1,988",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_142_00.png"
+    }
+  ],
+  "1st Tier Shadow Raids": [
+    {
+      "No Dex": "#0081",
+      "Boss Name": "Magnemite",
+      "Boss CP": "5,141",
+      "Max Capture CP": "778",
+      "Max Capture CP Bosst": "973",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_081_00.png"
+    },
+    {
+      "No Dex": "#0155",
+      "Boss Name": "Cyndaquil",
+      "Boss CP": "3,334",
+      "Max Capture CP": "560",
+      "Max Capture CP Bosst": "700",
+      "Shiny": "No",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_155_00.png"
+    },
+    {
+      "No Dex": "#0198",
+      "Boss Name": "Murkrow",
+      "Boss CP": "4,700",
+      "Max Capture CP": "892",
+      "Max Capture CP Bosst": "1,116",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_198_00.png"
+    },
+    {
+      "No Dex": "#0325",
+      "Boss Name": "Spoink",
+      "Boss CP": "4,013",
+      "Max Capture CP": "762",
+      "Max Capture CP Bosst": "953",
+      "Shiny": "No",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_325_00.png"
+    }
+  ],
+  "3rd Tier Shadow Raids": [
+    {
+      "No Dex": "#0131",
+      "Boss Name": "Lapras",
+      "Boss CP": "15,650",
+      "Max Capture CP": "1,509",
+      "Max Capture CP Bosst": "1,886",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_131_00.png"
+    },
+    {
+      "No Dex": "#0221",
+      "Boss Name": "Piloswine",
+      "Boss CP": "15,333",
+      "Max Capture CP": "1,340",
+      "Max Capture CP Bosst": "1,675",
+      "Shiny": "No",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_221_00.png"
+    },
+    {
+      "No Dex": "#0533",
+      "Boss Name": "Gurdurr",
+      "Boss CP": "15,054",
+      "Max Capture CP": "1,239",
+      "Max Capture CP Bosst": "1,549",
+      "Shiny": "No",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_533_00.png"
+    }
+  ],
+  "Legendary Shadow Raids": [
+    {
+      "No Dex": "#0379",
+      "Boss Name": "Registeel",
+      "Boss CP": "33,516",
+      "Max Capture CP": "1,398",
+      "Max Capture CP Bosst": "1,748",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_379_00.png"
+    }
+  ]
+}
