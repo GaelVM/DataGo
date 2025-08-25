@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Lechonk",
+        "start": "2025-08-26T18:00:00.000",
+        "end": "2025-08-26T19:00:00.000",
+        "extraData": {
+            "name": "Lechonk",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm915.icon.png",
+            "bonus": "Doble de caramelos por transferencia",
+            "list": [
+                {
+                    "name": "Lechonk",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm915.icon.png"
+                }
+            ],
+            "bonusimg": "2× Transfer Candy"
+        }
+    }
+]
