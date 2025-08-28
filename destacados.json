@@ -1,0 +1,97 @@
+[
+    {
+        "name": "Pidgey",
+        "start": "2025-09-02T18:00:00.000",
+        "end": "2025-09-02T19:00:00.000",
+        "extraData": {
+            "name": "Pidgey",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_016_00.png",
+            "bonus": "Doble de experiencia por evolución",
+            "list": [
+                {
+                    "name": "Pidgey",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_016_00.png"
+                }
+            ],
+            "bonusimg": "2× Evolution XP"
+        }
+    },
+    {
+        "name": "Trubbish",
+        "start": "2025-09-09T18:00:00.000",
+        "end": "2025-09-09T19:00:00.000",
+        "extraData": {
+            "name": "Trubbish",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_568_00.png",
+            "bonus": "Doble de polvo estelar por captura",
+            "list": [
+                {
+                    "name": "Trubbish",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_568_00.png"
+                }
+            ],
+            "bonusimg": "2× Catch Stardust"
+        }
+    },
+    {
+        "name": "Gothita",
+        "start": "2025-09-16T18:00:00.000",
+        "end": "2025-09-16T19:00:00.000",
+        "extraData": {
+            "name": "Gothita",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_574_00.png",
+            "bonus": "Doble de experiencia por captura",
+            "list": [
+                {
+                    "name": "Gothita",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_574_00.png"
+                }
+            ],
+            "bonusimg": "2× Catch XP"
+        }
+    },
+    {
+        "name": "Hoothoot",
+        "start": "2025-09-23T18:00:00.000",
+        "end": "2025-09-23T19:00:00.000",
+        "extraData": {
+            "name": "Hoothoot",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_163_00.png",
+            "bonus": "Doble de caramelos por captura",
+            "list": [
+                {
+                    "name": "Hoothoot",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_163_00.png"
+                }
+            ],
+            "bonusimg": "2× Catch Candy"
+        }
+    },
+    {
+        "name": "Aron",
+        "start": "2025-09-30T18:00:00.000",
+        "end": "2025-09-30T19:00:00.000",
+        "extraData": {
+            "name": "Aron",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_304_00.png",
+            "bonus": "Doble de caramelos por transferencia",
+            "list": [
+                {
+                    "name": "Aron",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_304_00.png"
+                }
+            ],
+            "bonusimg": "2× Transfer Candy"
+        }
+    }
+]
