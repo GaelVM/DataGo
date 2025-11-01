@@ -1,0 +1,78 @@
+[
+    {
+        "name": "Weedle",
+        "start": "2025-11-04T18:00:00.000",
+        "end": "2025-11-04T19:00:00.000",
+        "extraData": {
+            "name": "Weedle",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_013_00.png",
+            "bonus": "Doble de caramelos por transferencia",
+            "list": [
+                {
+                    "name": "Weedle",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_013_00.png"
+                }
+            ],
+            "bonusimg": "2× Transfer Candy"
+        }
+    },
+    {
+        "name": "Morelull",
+        "start": "2025-11-11T18:00:00.000",
+        "end": "2025-11-11T19:00:00.000",
+        "extraData": {
+            "name": "Morelull",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm755.icon.png",
+            "bonus": "Doble de experiencia por evolución",
+            "list": [
+                {
+                    "name": "Morelull",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm755.icon.png"
+                }
+            ],
+            "bonusimg": "2× Evolution XP"
+        }
+    },
+    {
+        "name": "Sableye",
+        "start": "2025-11-18T18:00:00.000",
+        "end": "2025-11-18T19:00:00.000",
+        "extraData": {
+            "name": "Sableye",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_00.png",
+            "bonus": "Doble de polvo estelar por captura",
+            "list": [
+                {
+                    "name": "Sableye",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_00.png"
+                }
+            ],
+            "bonusimg": "2× Catch Stardust"
+        }
+    },
+    {
+        "name": "Scraggy",
+        "start": "2025-11-25T18:00:00.000",
+        "end": "2025-11-25T19:00:00.000",
+        "extraData": {
+            "name": "Scraggy",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_559_00.png",
+            "bonus": "Doble de experiencia por captura",
+            "list": [
+                {
+                    "name": "Scraggy",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_559_00.png"
+                }
+            ],
+            "bonusimg": "2× Catch XP"
+        }
+    }
+]
