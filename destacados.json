@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Sableye",
+        "start": "2025-11-18T18:00:00.000",
+        "end": "2025-11-18T19:00:00.000",
+        "extraData": {
+            "name": "Sableye",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_00.png",
+            "bonus": "Doble de polvo estelar por captura",
+            "list": [
+                {
+                    "name": "Sableye",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_00.png"
+                }
+            ],
+            "bonusimg": "2× Catch Stardust"
+        }
+    },
+    {
+        "name": "Scraggy",
+        "start": "2025-11-25T18:00:00.000",
+        "end": "2025-11-25T19:00:00.000",
+        "extraData": {
+            "name": "Scraggy",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_559_00.png",
+            "bonus": "Doble de experiencia por captura",
+            "list": [
+                {
+                    "name": "Scraggy",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_559_00.png"
+                }
+            ],
+            "bonusimg": "2× Catch XP"
+        }
+    }
+]

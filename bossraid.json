@@ -1,0 +1,33 @@
+{
+  "3rd Tier": [
+    {
+      "No Dex": "#0760",
+      "Boss Name": "Bewear wearing a wilderness cape",
+      "Boss CP": "18,060",
+      "Max Capture CP": "1,781",
+      "Max Capture CP Bosst": "2,226",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_760_00.png"
+    }
+  ],
+  "Legendary Shadow Raids": [
+    {
+      "No Dex": "#0488",
+      "Boss Name": "Cresselia",
+      "Boss CP": "33,794",
+      "Max Capture CP": "1,633",
+      "Max Capture CP Bosst": "2,041",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_488_00.png"
+    },
+    {
+      "No Dex": "#0491",
+      "Boss Name": "Darkrai",
+      "Boss CP": "53,623",
+      "Max Capture CP": "2,136",
+      "Max Capture CP Bosst": "2,671",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_491_00.png"
+    }
+  ]
+}
