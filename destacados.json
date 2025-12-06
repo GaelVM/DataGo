@@ -1,0 +1,78 @@
+[
+    {
+        "name": "Shieldon",
+        "start": "2025-12-09T18:00:00.000",
+        "end": "2025-12-09T19:00:00.000",
+        "extraData": {
+            "name": "Shieldon",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_410_00.png",
+            "bonus": "Doble de experiencia por captura",
+            "list": [
+                {
+                    "name": "Shieldon",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_410_00.png"
+                }
+            ],
+            "bonusimg": "2× Catch XP"
+        }
+    },
+    {
+        "name": "Mienfoo",
+        "start": "2025-12-16T18:00:00.000",
+        "end": "2025-12-16T19:00:00.000",
+        "extraData": {
+            "name": "Mienfoo",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_619_00.png",
+            "bonus": "Doble de caramelos por captura",
+            "list": [
+                {
+                    "name": "Mienfoo",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_619_00.png"
+                }
+            ],
+            "bonusimg": "2× Catch Candy"
+        }
+    },
+    {
+        "name": "Spheal",
+        "start": "2025-12-23T18:00:00.000",
+        "end": "2025-12-23T19:00:00.000",
+        "extraData": {
+            "name": "Spheal",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_363_00.png",
+            "bonus": "Doble de experiencia por evolución",
+            "list": [
+                {
+                    "name": "Spheal",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_363_00.png"
+                }
+            ],
+            "bonusimg": "2× Evolution XP"
+        }
+    },
+    {
+        "name": "Delibird",
+        "start": "2025-12-30T18:00:00.000",
+        "end": "2025-12-30T19:00:00.000",
+        "extraData": {
+            "name": "Delibird",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_225_00.png",
+            "bonus": "Doble de polvo estelar por captura",
+            "list": [
+                {
+                    "name": "Delibird",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_225_00.png"
+                }
+            ],
+            "bonusimg": "2× Catch Stardust"
+        }
+    }
+]

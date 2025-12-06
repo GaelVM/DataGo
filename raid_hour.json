@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Kyurem",
+        "start": "2025-12-10T18:00:00.000",
+        "end": "2025-12-10T19:00:00.000",
+        "extraData": null
+    },
+    {
+        "name": "Reshiram",
+        "start": "2025-12-17T18:00:00.000",
+        "end": "2025-12-17T19:00:00.000",
+        "extraData": null
+    },
+    {
+        "name": "Zekrom",
+        "start": "2025-12-24T18:00:00.000",
+        "end": "2025-12-24T19:00:00.000",
+        "extraData": null
+    },
+    {
+        "name": "Blacephalon",
+        "start": "2025-12-31T18:00:00.000",
+        "end": "2025-12-31T19:00:00.000",
+        "extraData": null
+    }
+]
