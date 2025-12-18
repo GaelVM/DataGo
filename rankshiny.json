@@ -1,0 +1,2346 @@
+[
+  {
+    "id": "1",
+    "name": "Bulbasaur",
+    "rate": "1/674",
+    "total": "8,763",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/1.png",
+    "rank": 234
+  },
+  {
+    "id": "4",
+    "name": "Charmander",
+    "rate": "1/406",
+    "total": "12,183",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/4.png",
+    "rank": 88
+  },
+  {
+    "id": "6",
+    "name": "Charizard",
+    "rate": "1/48",
+    "total": "48",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/6.png",
+    "rank": 7
+  },
+  {
+    "id": "7",
+    "name": "Squirtle",
+    "rate": "1/446",
+    "total": "8,931",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/7.png",
+    "rank": 116
+  },
+  {
+    "id": "9",
+    "name": "Blastoise",
+    "rate": "1/29",
+    "total": "29",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/9.png",
+    "rank": 2
+  },
+  {
+    "id": "10",
+    "name": "Caterpie",
+    "rate": "1/536",
+    "total": "20,379",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/10.png",
+    "rank": 176
+  },
+  {
+    "id": "13",
+    "name": "Weedle",
+    "rate": "1/1,036",
+    "total": "16,591",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/13.png",
+    "rank": 282
+  },
+  {
+    "id": "15",
+    "name": "Beedrill",
+    "rate": "1/48",
+    "total": "48",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/15.png",
+    "rank": 8
+  },
+  {
+    "id": "16",
+    "name": "Pidgey",
+    "rate": "1/586",
+    "total": "21,705",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/16.png",
+    "rank": 206
+  },
+  {
+    "id": "19",
+    "name": "Rattata",
+    "rate": "1/543",
+    "total": "30,966",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/19.png",
+    "rank": 180
+  },
+  {
+    "id": "21",
+    "name": "Spearow",
+    "rate": "1/429",
+    "total": "17,189",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/21.png",
+    "rank": 104
+  },
+  {
+    "id": "23",
+    "name": "Ekans",
+    "rate": "1/746",
+    "total": "14,937",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/23.png",
+    "rank": 249
+  },
+  {
+    "id": "25",
+    "name": "Pikachu",
+    "rate": "1/508",
+    "total": "8,131",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/25.png",
+    "rank": 157
+  },
+  {
+    "id": "27",
+    "name": "Sandshrew",
+    "rate": "1/381",
+    "total": "6,105",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/27.png",
+    "rank": 76
+  },
+  {
+    "id": "29",
+    "name": "Nidoran♀",
+    "rate": "1/731",
+    "total": "9,513",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/29.png",
+    "rank": 246
+  },
+  {
+    "id": "32",
+    "name": "Nidoran♂",
+    "rate": "1/677",
+    "total": "9,491",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/32.png",
+    "rank": 236
+  },
+  {
+    "id": "35",
+    "name": "Clefairy",
+    "rate": "1/588",
+    "total": "5,300",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/35.png",
+    "rank": 208
+  },
+  {
+    "id": "37",
+    "name": "Vulpix",
+    "rate": "1/68",
+    "total": "44,657",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/37.png",
+    "rank": 19
+  },
+  {
+    "id": "39",
+    "name": "Jigglypuff",
+    "rate": "1/654",
+    "total": "11,119",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/39.png",
+    "rank": 227
+  },
+  {
+    "id": "41",
+    "name": "Zubat",
+    "rate": "1/631",
+    "total": "1,895",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/41.png",
+    "rank": 220
+  },
+  {
+    "id": "43",
+    "name": "Oddish",
+    "rate": "1/495",
+    "total": "15,848",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/43.png",
+    "rank": 150
+  },
+  {
+    "id": "46",
+    "name": "Paras",
+    "rate": "1/629",
+    "total": "10,071",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/46.png",
+    "rank": 219
+  },
+  {
+    "id": "48",
+    "name": "Venonat",
+    "rate": "1/410",
+    "total": "9,444",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/48.png",
+    "rank": 91
+  },
+  {
+    "id": "50",
+    "name": "Diglett",
+    "rate": "1/575",
+    "total": "8,628",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/50.png",
+    "rank": 199
+  },
+  {
+    "id": "52",
+    "name": "Meowth",
+    "rate": "1/100",
+    "total": "20,309",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/52.png",
+    "rank": 30
+  },
+  {
+    "id": "54",
+    "name": "Psyduck",
+    "rate": "1/371",
+    "total": "5,205",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/54.png",
+    "rank": 70
+  },
+  {
+    "id": "56",
+    "name": "Mankey",
+    "rate": "1/560",
+    "total": "10,086",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/56.png",
+    "rank": 190
+  },
+  {
+    "id": "58",
+    "name": "Growlithe",
+    "rate": "1/248",
+    "total": "12,407",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/58.png",
+    "rank": 53
+  },
+  {
+    "id": "60",
+    "name": "Poliwag",
+    "rate": "1/452",
+    "total": "6,786",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/60.png",
+    "rank": 120
+  },
+  {
+    "id": "63",
+    "name": "Abra",
+    "rate": "1/616",
+    "total": "10,483",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/63.png",
+    "rank": 215
+  },
+  {
+    "id": "66",
+    "name": "Machop",
+    "rate": "1/589",
+    "total": "14,727",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/66.png",
+    "rank": 209
+  },
+  {
+    "id": "69",
+    "name": "Bellsprout",
+    "rate": "1/490",
+    "total": "11,777",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/69.png",
+    "rank": 141
+  },
+  {
+    "id": "74",
+    "name": "Geodude",
+    "rate": "1/532",
+    "total": "15,987",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/74.png",
+    "rank": 175
+  },
+  {
+    "id": "77",
+    "name": "Ponyta",
+    "rate": "1/114",
+    "total": "6,510",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/77.png",
+    "rank": 37
+  },
+  {
+    "id": "79",
+    "name": "Slowpoke",
+    "rate": "1/526",
+    "total": "5,791",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/79.png",
+    "rank": 169
+  },
+  {
+    "id": "81",
+    "name": "Magnemite",
+    "rate": "1/523",
+    "total": "10,995",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/81.png",
+    "rank": 167
+  },
+  {
+    "id": "83",
+    "name": "Farfetch'd",
+    "rate": "1/45",
+    "total": "2,942",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/83.png",
+    "rank": 5
+  },
+  {
+    "id": "84",
+    "name": "Doduo",
+    "rate": "1/573",
+    "total": "8,023",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/84.png",
+    "rank": 197
+  },
+  {
+    "id": "88",
+    "name": "Grimer",
+    "rate": "1/113",
+    "total": "11,728",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/88.png",
+    "rank": 36
+  },
+  {
+    "id": "92",
+    "name": "Gastly",
+    "rate": "1/683",
+    "total": "8,205",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/92.png",
+    "rank": 237
+  },
+  {
+    "id": "95",
+    "name": "Onix",
+    "rate": "1/59",
+    "total": "837",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/95.png",
+    "rank": 14
+  },
+  {
+    "id": "96",
+    "name": "Drowzee",
+    "rate": "1/526",
+    "total": "9,472",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/96.png",
+    "rank": 170
+  },
+  {
+    "id": "98",
+    "name": "Krabby",
+    "rate": "1/200",
+    "total": "401",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/98.png",
+    "rank": 45
+  },
+  {
+    "id": "100",
+    "name": "Voltorb",
+    "rate": "1/820",
+    "total": "4,921",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/100.png",
+    "rank": 261
+  },
+  {
+    "id": "102",
+    "name": "Exeggcute",
+    "rate": "1/555",
+    "total": "14,444",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/102.png",
+    "rank": 188
+  },
+  {
+    "id": "104",
+    "name": "Cubone",
+    "rate": "1/491",
+    "total": "12,279",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/104.png",
+    "rank": 144
+  },
+  {
+    "id": "106",
+    "name": "Hitmonlee",
+    "rate": "1/786",
+    "total": "5,502",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/106.png",
+    "rank": 257
+  },
+  {
+    "id": "107",
+    "name": "Hitmonchan",
+    "rate": "1/923",
+    "total": "5,539",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/107.png",
+    "rank": 271
+  },
+  {
+    "id": "108",
+    "name": "Lickitung",
+    "rate": "1/59",
+    "total": "4,395",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/108.png",
+    "rank": 15
+  },
+  {
+    "id": "109",
+    "name": "Koffing",
+    "rate": "1/737",
+    "total": "5,901",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/109.png",
+    "rank": 247
+  },
+  {
+    "id": "111",
+    "name": "Rhyhorn",
+    "rate": "1/551",
+    "total": "11,025",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/111.png",
+    "rank": 184
+  },
+  {
+    "id": "113",
+    "name": "Chansey",
+    "rate": "1/56",
+    "total": "2,956",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/113.png",
+    "rank": 11
+  },
+  {
+    "id": "114",
+    "name": "Tangela",
+    "rate": "1/577",
+    "total": "3,462",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/114.png",
+    "rank": 201
+  },
+  {
+    "id": "115",
+    "name": "Kangaskhan",
+    "rate": "1/108",
+    "total": "1,196",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/115.png",
+    "rank": 34
+  },
+  {
+    "id": "118",
+    "name": "Goldeen",
+    "rate": "1/1,157",
+    "total": "1,157",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/118.png",
+    "rank": 285
+  },
+  {
+    "id": "122",
+    "name": "Mr. Mime",
+    "rate": "1/252",
+    "total": "1,260",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/122.png",
+    "rank": 54
+  },
+  {
+    "id": "123",
+    "name": "Scyther",
+    "rate": "1/55",
+    "total": "4,856",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/123.png",
+    "rank": 10
+  },
+  {
+    "id": "124",
+    "name": "Jynx",
+    "rate": "1/295",
+    "total": "2,958",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/124.png",
+    "rank": 57
+  },
+  {
+    "id": "125",
+    "name": "Electabuzz",
+    "rate": "1/409",
+    "total": "5,731",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/125.png",
+    "rank": 90
+  },
+  {
+    "id": "126",
+    "name": "Magmar",
+    "rate": "1/407",
+    "total": "4,895",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/126.png",
+    "rank": 89
+  },
+  {
+    "id": "127",
+    "name": "Pinsir",
+    "rate": "1/167",
+    "total": "2,687",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/127.png",
+    "rank": 43
+  },
+  {
+    "id": "128",
+    "name": "Tauros",
+    "rate": "1/373",
+    "total": "4,106",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/128.png",
+    "rank": 74
+  },
+  {
+    "id": "129",
+    "name": "Magikarp",
+    "rate": "1/623",
+    "total": "2,495",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/129.png",
+    "rank": 218
+  },
+  {
+    "id": "131",
+    "name": "Lapras",
+    "rate": "1/57",
+    "total": "404",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/131.png",
+    "rank": 12
+  },
+  {
+    "id": "133",
+    "name": "Eevee",
+    "rate": "1/432",
+    "total": "16,878",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/133.png",
+    "rank": 107
+  },
+  {
+    "id": "137",
+    "name": "Porygon",
+    "rate": "1/691",
+    "total": "2,074",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/137.png",
+    "rank": 241
+  },
+  {
+    "id": "140",
+    "name": "Kabuto",
+    "rate": "1/668",
+    "total": "668",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/140.png",
+    "rank": 231
+  },
+  {
+    "id": "142",
+    "name": "Aerodactyl",
+    "rate": "1/78",
+    "total": "1,254",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/142.png",
+    "rank": 24
+  },
+  {
+    "id": "143",
+    "name": "Snorlax",
+    "rate": "1/383",
+    "total": "5,373",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/143.png",
+    "rank": 79
+  },
+  {
+    "id": "152",
+    "name": "Chikorita",
+    "rate": "1/509",
+    "total": "12,736",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/152.png",
+    "rank": 158
+  },
+  {
+    "id": "155",
+    "name": "Cyndaquil",
+    "rate": "1/621",
+    "total": "17,411",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/155.png",
+    "rank": 217
+  },
+  {
+    "id": "158",
+    "name": "Totodile",
+    "rate": "1/579",
+    "total": "3,479",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/158.png",
+    "rank": 203
+  },
+  {
+    "id": "161",
+    "name": "Sentret",
+    "rate": "1/425",
+    "total": "2,975",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/161.png",
+    "rank": 101
+  },
+  {
+    "id": "163",
+    "name": "Hoothoot",
+    "rate": "1/676",
+    "total": "2,028",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/163.png",
+    "rank": 235
+  },
+  {
+    "id": "165",
+    "name": "Ledyba",
+    "rate": "1/465",
+    "total": "2,790",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/165.png",
+    "rank": 124
+  },
+  {
+    "id": "167",
+    "name": "Spinarak",
+    "rate": "1/797",
+    "total": "797",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/167.png",
+    "rank": 259
+  },
+  {
+    "id": "170",
+    "name": "Chinchou",
+    "rate": "1/753",
+    "total": "753",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/170.png",
+    "rank": 250
+  },
+  {
+    "id": "176",
+    "name": "Togetic",
+    "rate": "1/660",
+    "total": "2,640",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/176.png",
+    "rank": 228
+  },
+  {
+    "id": "177",
+    "name": "Natu",
+    "rate": "1/515",
+    "total": "22,163",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/177.png",
+    "rank": 160
+  },
+  {
+    "id": "179",
+    "name": "Mareep",
+    "rate": "1/470",
+    "total": "18,825",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/179.png",
+    "rank": 130
+  },
+  {
+    "id": "183",
+    "name": "Marill",
+    "rate": "1/417",
+    "total": "2,505",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/183.png",
+    "rank": 95
+  },
+  {
+    "id": "185",
+    "name": "Sudowoodo",
+    "rate": "1/222",
+    "total": "10,027",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/185.png",
+    "rank": 49
+  },
+  {
+    "id": "187",
+    "name": "Hoppip",
+    "rate": "1/596",
+    "total": "12,522",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/187.png",
+    "rank": 210
+  },
+  {
+    "id": "190",
+    "name": "Aipom",
+    "rate": "1/440",
+    "total": "880",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/190.png",
+    "rank": 110
+  },
+  {
+    "id": "191",
+    "name": "Sunkern",
+    "rate": "1/291",
+    "total": "1,747",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/191.png",
+    "rank": 56
+  },
+  {
+    "id": "193",
+    "name": "Yanma",
+    "rate": "1/569",
+    "total": "7,976",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/193.png",
+    "rank": 191
+  },
+  {
+    "id": "194",
+    "name": "Wooper",
+    "rate": "1/974",
+    "total": "8,771",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/194.png",
+    "rank": 277
+  },
+  {
+    "id": "198",
+    "name": "Murkrow",
+    "rate": "1/727",
+    "total": "13,817",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/198.png",
+    "rank": 245
+  },
+  {
+    "id": "200",
+    "name": "Misdreavus",
+    "rate": "1/522",
+    "total": "9,405",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/200.png",
+    "rank": 166
+  },
+  {
+    "id": "203",
+    "name": "Girafarig",
+    "rate": "1/602",
+    "total": "3,617",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/203.png",
+    "rank": 212
+  },
+  {
+    "id": "204",
+    "name": "Pineco",
+    "rate": "1/58",
+    "total": "648",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/204.png",
+    "rank": 13
+  },
+  {
+    "id": "206",
+    "name": "Dunsparce",
+    "rate": "1/442",
+    "total": "5,752",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/206.png",
+    "rank": 111
+  },
+  {
+    "id": "207",
+    "name": "Gligar",
+    "rate": "1/119",
+    "total": "715",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/207.png",
+    "rank": 38
+  },
+  {
+    "id": "209",
+    "name": "Snubbull",
+    "rate": "1/493",
+    "total": "10,359",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/209.png",
+    "rank": 146
+  },
+  {
+    "id": "213",
+    "name": "Shuckle",
+    "rate": "1/974",
+    "total": "974",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/213.png",
+    "rank": 278
+  },
+  {
+    "id": "215",
+    "name": "Sneasel",
+    "rate": "1/82",
+    "total": "331",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/215.png",
+    "rank": 25
+  },
+  {
+    "id": "216",
+    "name": "Teddiursa",
+    "rate": "1/352",
+    "total": "1,057",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/216.png",
+    "rank": 67
+  },
+  {
+    "id": "218",
+    "name": "Slugma",
+    "rate": "1/493",
+    "total": "1,975",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/218.png",
+    "rank": 147
+  },
+  {
+    "id": "220",
+    "name": "Swinub",
+    "rate": "1/496",
+    "total": "61,022",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/220.png",
+    "rank": 152
+  },
+  {
+    "id": "222",
+    "name": "Corsola",
+    "rate": "1/427",
+    "total": "1,282",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/222.png",
+    "rank": 102
+  },
+  {
+    "id": "223",
+    "name": "Remoraid",
+    "rate": "1/634",
+    "total": "1,269",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/223.png",
+    "rank": 221
+  },
+  {
+    "id": "225",
+    "name": "Delibird",
+    "rate": "1/487",
+    "total": "59,507",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/225.png",
+    "rank": 139
+  },
+  {
+    "id": "226",
+    "name": "Mantine",
+    "rate": "1/528",
+    "total": "528",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/226.png",
+    "rank": 173
+  },
+  {
+    "id": "227",
+    "name": "Skarmory",
+    "rate": "1/72",
+    "total": "943",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/227.png",
+    "rank": 22
+  },
+  {
+    "id": "228",
+    "name": "Houndour",
+    "rate": "1/833",
+    "total": "6,671",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/228.png",
+    "rank": 264
+  },
+  {
+    "id": "229",
+    "name": "Houndoom",
+    "rate": "1/37",
+    "total": "37",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/229.png",
+    "rank": 3
+  },
+  {
+    "id": "231",
+    "name": "Phanpy",
+    "rate": "1/337",
+    "total": "5,064",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/231.png",
+    "rank": 64
+  },
+  {
+    "id": "234",
+    "name": "Stantler",
+    "rate": "1/708",
+    "total": "2,126",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/234.png",
+    "rank": 243
+  },
+  {
+    "id": "237",
+    "name": "Hitmontop",
+    "rate": "1/444",
+    "total": "4,443",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/237.png",
+    "rank": 115
+  },
+  {
+    "id": "241",
+    "name": "Miltank",
+    "rate": "1/888",
+    "total": "3,552",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/241.png",
+    "rank": 268
+  },
+  {
+    "id": "252",
+    "name": "Treecko",
+    "rate": "1/961",
+    "total": "2,885",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/252.png",
+    "rank": 275
+  },
+  {
+    "id": "255",
+    "name": "Torchic",
+    "rate": "1/467",
+    "total": "934",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/255.png",
+    "rank": 127
+  },
+  {
+    "id": "258",
+    "name": "Mudkip",
+    "rate": "1/343",
+    "total": "2,401",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/258.png",
+    "rank": 65
+  },
+  {
+    "id": "261",
+    "name": "Poochyena",
+    "rate": "1/550",
+    "total": "18,708",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/261.png",
+    "rank": 183
+  },
+  {
+    "id": "263",
+    "name": "Zigzagoon",
+    "rate": "1/106",
+    "total": "20,200",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/263.png",
+    "rank": 33
+  },
+  {
+    "id": "265",
+    "name": "Wurmple",
+    "rate": "1/442",
+    "total": "6,632",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/265.png",
+    "rank": 112
+  },
+  {
+    "id": "270",
+    "name": "Lotad",
+    "rate": "1/762",
+    "total": "1,524",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/270.png",
+    "rank": 254
+  },
+  {
+    "id": "273",
+    "name": "Seedot",
+    "rate": "1/521",
+    "total": "3,130",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/273.png",
+    "rank": 163
+  },
+  {
+    "id": "276",
+    "name": "Taillow",
+    "rate": "1/476",
+    "total": "19,529",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/276.png",
+    "rank": 132
+  },
+  {
+    "id": "278",
+    "name": "Wingull",
+    "rate": "1/451",
+    "total": "9,035",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/278.png",
+    "rank": 118
+  },
+  {
+    "id": "280",
+    "name": "Ralts",
+    "rate": "1/480",
+    "total": "8,168",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/280.png",
+    "rank": 134
+  },
+  {
+    "id": "283",
+    "name": "Surskit",
+    "rate": "1/598",
+    "total": "6,582",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/283.png",
+    "rank": 211
+  },
+  {
+    "id": "285",
+    "name": "Shroomish",
+    "rate": "1/772",
+    "total": "2,317",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/285.png",
+    "rank": 256
+  },
+  {
+    "id": "287",
+    "name": "Slakoth",
+    "rate": "1/965",
+    "total": "1,931",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/287.png",
+    "rank": 276
+  },
+  {
+    "id": "290",
+    "name": "Nincada",
+    "rate": "1/94",
+    "total": "282",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/290.png",
+    "rank": 27
+  },
+  {
+    "id": "293",
+    "name": "Whismur",
+    "rate": "1/1,299",
+    "total": "3,897",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/293.png",
+    "rank": 287
+  },
+  {
+    "id": "296",
+    "name": "Makuhita",
+    "rate": "1/576",
+    "total": "14,994",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/296.png",
+    "rank": 200
+  },
+  {
+    "id": "299",
+    "name": "Nosepass",
+    "rate": "1/887",
+    "total": "3,550",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/299.png",
+    "rank": 267
+  },
+  {
+    "id": "300",
+    "name": "Skitty",
+    "rate": "1/536",
+    "total": "1,609",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/300.png",
+    "rank": 177
+  },
+  {
+    "id": "302",
+    "name": "Sableye",
+    "rate": "1/90",
+    "total": "452",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/302.png",
+    "rank": 26
+  },
+  {
+    "id": "303",
+    "name": "Mawile",
+    "rate": "1/39",
+    "total": "873",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/303.png",
+    "rank": 4
+  },
+  {
+    "id": "304",
+    "name": "Aron",
+    "rate": "1/960",
+    "total": "1,921",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/304.png",
+    "rank": 274
+  },
+  {
+    "id": "307",
+    "name": "Meditite",
+    "rate": "1/503",
+    "total": "2,515",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/307.png",
+    "rank": 154
+  },
+  {
+    "id": "309",
+    "name": "Electrike",
+    "rate": "1/529",
+    "total": "11,125",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/309.png",
+    "rank": 174
+  },
+  {
+    "id": "311",
+    "name": "Plusle",
+    "rate": "1/451",
+    "total": "7,219",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/311.png",
+    "rank": 119
+  },
+  {
+    "id": "312",
+    "name": "Minun",
+    "rate": "1/465",
+    "total": "6,982",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/312.png",
+    "rank": 125
+  },
+  {
+    "id": "313",
+    "name": "Volbeat",
+    "rate": "1/363",
+    "total": "4,001",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/313.png",
+    "rank": 69
+  },
+  {
+    "id": "314",
+    "name": "Illumise",
+    "rate": "1/323",
+    "total": "4,209",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/314.png",
+    "rank": 59
+  },
+  {
+    "id": "315",
+    "name": "Roselia",
+    "rate": "1/422",
+    "total": "2,533",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/315.png",
+    "rank": 97
+  },
+  {
+    "id": "316",
+    "name": "Gulpin",
+    "rate": "1/740",
+    "total": "11,851",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/316.png",
+    "rank": 248
+  },
+  {
+    "id": "318",
+    "name": "Carvanha",
+    "rate": "1/492",
+    "total": "1,969",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/318.png",
+    "rank": 145
+  },
+  {
+    "id": "322",
+    "name": "Numel",
+    "rate": "1/493",
+    "total": "8,392",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/322.png",
+    "rank": 148
+  },
+  {
+    "id": "325",
+    "name": "Spoink",
+    "rate": "1/891",
+    "total": "3,567",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/325.png",
+    "rank": 269
+  },
+  {
+    "id": "333",
+    "name": "Swablu",
+    "rate": "1/668",
+    "total": "12,698",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/333.png",
+    "rank": 232
+  },
+  {
+    "id": "335",
+    "name": "Zangoose",
+    "rate": "1/423",
+    "total": "4,655",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/335.png",
+    "rank": 98
+  },
+  {
+    "id": "336",
+    "name": "Seviper",
+    "rate": "1/634",
+    "total": "5,073",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/336.png",
+    "rank": 222
+  },
+  {
+    "id": "337",
+    "name": "Lunatone",
+    "rate": "1/372",
+    "total": "5,959",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/337.png",
+    "rank": 72
+  },
+  {
+    "id": "338",
+    "name": "Solrock",
+    "rate": "1/412",
+    "total": "5,774",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/338.png",
+    "rank": 92
+  },
+  {
+    "id": "339",
+    "name": "Barboach",
+    "rate": "1/391",
+    "total": "1,955",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/339.png",
+    "rank": 84
+  },
+  {
+    "id": "343",
+    "name": "Baltoy",
+    "rate": "1/1,076",
+    "total": "2,152",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/343.png",
+    "rank": 284
+  },
+  {
+    "id": "345",
+    "name": "Lileep",
+    "rate": "1/146",
+    "total": "293",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/345.png",
+    "rank": 41
+  },
+  {
+    "id": "347",
+    "name": "Anorith",
+    "rate": "1/98",
+    "total": "294",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/347.png",
+    "rank": 29
+  },
+  {
+    "id": "349",
+    "name": "Feebas",
+    "rate": "1/46",
+    "total": "93",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/349.png",
+    "rank": 6
+  },
+  {
+    "id": "351",
+    "name": "Castform",
+    "rate": "1/384",
+    "total": "11,932",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/351.png",
+    "rank": 81
+  },
+  {
+    "id": "353",
+    "name": "Shuppet",
+    "rate": "1/371",
+    "total": "4,460",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/353.png",
+    "rank": 71
+  },
+  {
+    "id": "354",
+    "name": "Banette",
+    "rate": "1/105",
+    "total": "105",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/354.png",
+    "rank": 32
+  },
+  {
+    "id": "355",
+    "name": "Duskull",
+    "rate": "1/1,574",
+    "total": "6,298",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/355.png",
+    "rank": 289
+  },
+  {
+    "id": "358",
+    "name": "Chimecho",
+    "rate": "1/619",
+    "total": "3,716",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/358.png",
+    "rank": 216
+  },
+  {
+    "id": "359",
+    "name": "Absol",
+    "rate": "1/61",
+    "total": "368",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/359.png",
+    "rank": 16
+  },
+  {
+    "id": "361",
+    "name": "Snorunt",
+    "rate": "1/482",
+    "total": "81,140",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/361.png",
+    "rank": 135
+  },
+  {
+    "id": "363",
+    "name": "Spheal",
+    "rate": "1/517",
+    "total": "82,308",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/363.png",
+    "rank": 162
+  },
+  {
+    "id": "366",
+    "name": "Clamperl",
+    "rate": "1/68",
+    "total": "1,372",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/366.png",
+    "rank": 20
+  },
+  {
+    "id": "387",
+    "name": "Turtwig",
+    "rate": "1/430",
+    "total": "6,894",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/387.png",
+    "rank": 105
+  },
+  {
+    "id": "390",
+    "name": "Chimchar",
+    "rate": "1/725",
+    "total": "1,451",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/390.png",
+    "rank": 244
+  },
+  {
+    "id": "393",
+    "name": "Piplup",
+    "rate": "1/404",
+    "total": "2,021",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/393.png",
+    "rank": 87
+  },
+  {
+    "id": "396",
+    "name": "Starly",
+    "rate": "1/515",
+    "total": "12,878",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/396.png",
+    "rank": 161
+  },
+  {
+    "id": "399",
+    "name": "Bidoof",
+    "rate": "1/414",
+    "total": "19,051",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/399.png",
+    "rank": 93
+  },
+  {
+    "id": "401",
+    "name": "Kricketot",
+    "rate": "1/689",
+    "total": "2,756",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/401.png",
+    "rank": 239
+  },
+  {
+    "id": "408",
+    "name": "Cranidos",
+    "rate": "1/1,179",
+    "total": "1,179",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/408.png",
+    "rank": 286
+  },
+  {
+    "id": "410",
+    "name": "Shieldon",
+    "rate": "1/423",
+    "total": "1,271",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/410.png",
+    "rank": 99
+  },
+  {
+    "id": "412",
+    "name": "Burmy",
+    "rate": "1/569",
+    "total": "1,709",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/412.png",
+    "rank": 192
+  },
+  {
+    "id": "415",
+    "name": "Combee",
+    "rate": "1/469",
+    "total": "4,225",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/415.png",
+    "rank": 129
+  },
+  {
+    "id": "418",
+    "name": "Buizel",
+    "rate": "1/1,070",
+    "total": "3,210",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/418.png",
+    "rank": 283
+  },
+  {
+    "id": "420",
+    "name": "Cherubi",
+    "rate": "1/236",
+    "total": "708",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/420.png",
+    "rank": 52
+  },
+  {
+    "id": "422",
+    "name": "Shellos",
+    "rate": "1/521",
+    "total": "11,997",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/422.png",
+    "rank": 164
+  },
+  {
+    "id": "425",
+    "name": "Drifloon",
+    "rate": "1/586",
+    "total": "9,974",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/425.png",
+    "rank": 207
+  },
+  {
+    "id": "427",
+    "name": "Buneary",
+    "rate": "1/527",
+    "total": "17,392",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/427.png",
+    "rank": 171
+  },
+  {
+    "id": "428",
+    "name": "Lopunny",
+    "rate": "1/52",
+    "total": "209",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/428.png",
+    "rank": 9
+  },
+  {
+    "id": "431",
+    "name": "Glameow",
+    "rate": "1/637",
+    "total": "15,295",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/431.png",
+    "rank": 224
+  },
+  {
+    "id": "434",
+    "name": "Stunky",
+    "rate": "1/465",
+    "total": "11,633",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/434.png",
+    "rank": 126
+  },
+  {
+    "id": "436",
+    "name": "Bronzor",
+    "rate": "1/75",
+    "total": "1,728",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/436.png",
+    "rank": 23
+  },
+  {
+    "id": "441",
+    "name": "Chatot",
+    "rate": "1/803",
+    "total": "2,409",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/441.png",
+    "rank": 260
+  },
+  {
+    "id": "448",
+    "name": "Lucario",
+    "rate": "1/103",
+    "total": "207",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/448.png",
+    "rank": 31
+  },
+  {
+    "id": "449",
+    "name": "Hippopotas",
+    "rate": "1/2,131",
+    "total": "2,131",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/449.png",
+    "rank": 292
+  },
+  {
+    "id": "451",
+    "name": "Skorupi",
+    "rate": "1/374",
+    "total": "374",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/451.png",
+    "rank": 75
+  },
+  {
+    "id": "453",
+    "name": "Croagunk",
+    "rate": "1/930",
+    "total": "2,792",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/453.png",
+    "rank": 272
+  },
+  {
+    "id": "456",
+    "name": "Finneon",
+    "rate": "1/761",
+    "total": "3,044",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/456.png",
+    "rank": 252
+  },
+  {
+    "id": "459",
+    "name": "Snover",
+    "rate": "1/544",
+    "total": "85,415",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/459.png",
+    "rank": 181
+  },
+  {
+    "id": "481",
+    "name": "Mesprit",
+    "rate": "1/8",
+    "total": "8",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/481.png",
+    "rank": 1
+  },
+  {
+    "id": "495",
+    "name": "Snivy",
+    "rate": "1/514",
+    "total": "12,340",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/495.png",
+    "rank": 159
+  },
+  {
+    "id": "498",
+    "name": "Tepig",
+    "rate": "1/473",
+    "total": "11,830",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/498.png",
+    "rank": 131
+  },
+  {
+    "id": "501",
+    "name": "Oshawott",
+    "rate": "1/684",
+    "total": "13,682",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/501.png",
+    "rank": 238
+  },
+  {
+    "id": "504",
+    "name": "Patrat",
+    "rate": "1/438",
+    "total": "7,447",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/504.png",
+    "rank": 108
+  },
+  {
+    "id": "506",
+    "name": "Lillipup",
+    "rate": "1/398",
+    "total": "26,688",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/506.png",
+    "rank": 86
+  },
+  {
+    "id": "509",
+    "name": "Purrloin",
+    "rate": "1/569",
+    "total": "8,536",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/509.png",
+    "rank": 193
+  },
+  {
+    "id": "511",
+    "name": "Pansage",
+    "rate": "1/486",
+    "total": "3,895",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/511.png",
+    "rank": 137
+  },
+  {
+    "id": "513",
+    "name": "Pansear",
+    "rate": "1/640",
+    "total": "1,921",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/513.png",
+    "rank": 225
+  },
+  {
+    "id": "515",
+    "name": "Panpour",
+    "rate": "1/843",
+    "total": "5,902",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/515.png",
+    "rank": 265
+  },
+  {
+    "id": "517",
+    "name": "Munna",
+    "rate": "1/397",
+    "total": "8,346",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/517.png",
+    "rank": 85
+  },
+  {
+    "id": "519",
+    "name": "Pidove",
+    "rate": "1/506",
+    "total": "15,707",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/519.png",
+    "rank": 155
+  },
+  {
+    "id": "522",
+    "name": "Blitzle",
+    "rate": "1/467",
+    "total": "7,012",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/522.png",
+    "rank": 128
+  },
+  {
+    "id": "524",
+    "name": "Roggenrola",
+    "rate": "1/439",
+    "total": "2,198",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/524.png",
+    "rank": 109
+  },
+  {
+    "id": "527",
+    "name": "Woobat",
+    "rate": "1/997",
+    "total": "2,991",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/527.png",
+    "rank": 279
+  },
+  {
+    "id": "529",
+    "name": "Drilbur",
+    "rate": "1/430",
+    "total": "9,901",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/529.png",
+    "rank": 106
+  },
+  {
+    "id": "531",
+    "name": "Audino",
+    "rate": "1/123",
+    "total": "1,610",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/531.png",
+    "rank": 39
+  },
+  {
+    "id": "535",
+    "name": "Tympole",
+    "rate": "1/490",
+    "total": "20,095",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/535.png",
+    "rank": 142
+  },
+  {
+    "id": "538",
+    "name": "Throh",
+    "rate": "1/610",
+    "total": "6,102",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/538.png",
+    "rank": 213
+  },
+  {
+    "id": "539",
+    "name": "Sawk",
+    "rate": "1/351",
+    "total": "5,980",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/539.png",
+    "rank": 66
+  },
+  {
+    "id": "540",
+    "name": "Sewaddle",
+    "rate": "1/585",
+    "total": "28,108",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/540.png",
+    "rank": 205
+  },
+  {
+    "id": "543",
+    "name": "Venipede",
+    "rate": "1/546",
+    "total": "25,688",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/543.png",
+    "rank": 182
+  },
+  {
+    "id": "546",
+    "name": "Cottonee",
+    "rate": "1/572",
+    "total": "8,583",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/546.png",
+    "rank": 196
+  },
+  {
+    "id": "548",
+    "name": "Petilil",
+    "rate": "1/160",
+    "total": "962",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/548.png",
+    "rank": 42
+  },
+  {
+    "id": "554",
+    "name": "Darumaka",
+    "rate": "1/68",
+    "total": "61,963",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/554.png",
+    "rank": 21
+  },
+  {
+    "id": "557",
+    "name": "Dwebble",
+    "rate": "1/388",
+    "total": "5,047",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/557.png",
+    "rank": 82
+  },
+  {
+    "id": "559",
+    "name": "Scraggy",
+    "rate": "1/570",
+    "total": "4,565",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/559.png",
+    "rank": 195
+  },
+  {
+    "id": "562",
+    "name": "Yamask",
+    "rate": "1/177",
+    "total": "2,847",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/562.png",
+    "rank": 44
+  },
+  {
+    "id": "568",
+    "name": "Trubbish",
+    "rate": "1/557",
+    "total": "3,345",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/568.png",
+    "rank": 189
+  },
+  {
+    "id": "572",
+    "name": "Minccino",
+    "rate": "1/666",
+    "total": "12,663",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/572.png",
+    "rank": 229
+  },
+  {
+    "id": "574",
+    "name": "Gothita",
+    "rate": "1/443",
+    "total": "13,746",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/574.png",
+    "rank": 113
+  },
+  {
+    "id": "580",
+    "name": "Ducklett",
+    "rate": "1/447",
+    "total": "2,235",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/580.png",
+    "rank": 117
+  },
+  {
+    "id": "582",
+    "name": "Vanillite",
+    "rate": "1/478",
+    "total": "5,262",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/582.png",
+    "rank": 133
+  },
+  {
+    "id": "585",
+    "name": "Deerling",
+    "rate": "1/1,018",
+    "total": "4,072",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/585.png",
+    "rank": 281
+  },
+  {
+    "id": "587",
+    "name": "Emolga",
+    "rate": "1/666",
+    "total": "5,330",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/587.png",
+    "rank": 230
+  },
+  {
+    "id": "588",
+    "name": "Karrablast",
+    "rate": "1/493",
+    "total": "10,371",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/588.png",
+    "rank": 149
+  },
+  {
+    "id": "590",
+    "name": "Foongus",
+    "rate": "1/527",
+    "total": "1,055",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/590.png",
+    "rank": 172
+  },
+  {
+    "id": "592",
+    "name": "Frillish",
+    "rate": "1/334",
+    "total": "669",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/592.png",
+    "rank": 61
+  },
+  {
+    "id": "594",
+    "name": "Alomomola",
+    "rate": "1/64",
+    "total": "258",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/594.png",
+    "rank": 18
+  },
+  {
+    "id": "595",
+    "name": "Joltik",
+    "rate": "1/495",
+    "total": "11,395",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/595.png",
+    "rank": 151
+  },
+  {
+    "id": "597",
+    "name": "Ferroseed",
+    "rate": "1/383",
+    "total": "2,685",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/597.png",
+    "rank": 80
+  },
+  {
+    "id": "602",
+    "name": "Tynamo",
+    "rate": "1/1,920",
+    "total": "1,920",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/602.png",
+    "rank": 291
+  },
+  {
+    "id": "605",
+    "name": "Elgyem",
+    "rate": "1/382",
+    "total": "382",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/605.png",
+    "rank": 78
+  },
+  {
+    "id": "607",
+    "name": "Litwick",
+    "rate": "1/856",
+    "total": "6,855",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/607.png",
+    "rank": 266
+  },
+  {
+    "id": "610",
+    "name": "Axew",
+    "rate": "1/361",
+    "total": "1,085",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/610.png",
+    "rank": 68
+  },
+  {
+    "id": "616",
+    "name": "Shelmet",
+    "rate": "1/461",
+    "total": "38,727",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/616.png",
+    "rank": 123
+  },
+  {
+    "id": "618",
+    "name": "Stunfisk",
+    "rate": "1/224",
+    "total": "2,690",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/618.png",
+    "rank": 50
+  },
+  {
+    "id": "619",
+    "name": "Mienfoo",
+    "rate": "1/636",
+    "total": "3,818",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/619.png",
+    "rank": 223
+  },
+  {
+    "id": "626",
+    "name": "Bouffalant",
+    "rate": "1/372",
+    "total": "4,840",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/626.png",
+    "rank": 73
+  },
+  {
+    "id": "627",
+    "name": "Rufflet",
+    "rate": "1/336",
+    "total": "1,680",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/627.png",
+    "rank": 62
+  },
+  {
+    "id": "631",
+    "name": "Heatmor",
+    "rate": "1/273",
+    "total": "5,747",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/631.png",
+    "rank": 55
+  },
+  {
+    "id": "632",
+    "name": "Durant",
+    "rate": "1/381",
+    "total": "6,105",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/632.png",
+    "rank": 77
+  },
+  {
+    "id": "659",
+    "name": "Bunnelby",
+    "rate": "1/460",
+    "total": "7,368",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/659.png",
+    "rank": 122
+  },
+  {
+    "id": "661",
+    "name": "Fletchling",
+    "rate": "1/417",
+    "total": "18,780",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/661.png",
+    "rank": 96
+  },
+  {
+    "id": "667",
+    "name": "Litleo",
+    "rate": "1/486",
+    "total": "3,889",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/667.png",
+    "rank": 138
+  },
+  {
+    "id": "669",
+    "name": "Flabebe",
+    "rate": "1/499",
+    "total": "32,481",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/669.png",
+    "rank": 153
+  },
+  {
+    "id": "672",
+    "name": "Skiddo",
+    "rate": "1/389",
+    "total": "3,508",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/672.png",
+    "rank": 83
+  },
+  {
+    "id": "676",
+    "name": "Furfrou",
+    "rate": "1/1,820",
+    "total": "1,820",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/676.png",
+    "rank": 290
+  },
+  {
+    "id": "682",
+    "name": "Spritzee",
+    "rate": "1/641",
+    "total": "11,548",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/682.png",
+    "rank": 226
+  },
+  {
+    "id": "684",
+    "name": "Swirlix",
+    "rate": "1/521",
+    "total": "5,736",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/684.png",
+    "rank": 165
+  },
+  {
+    "id": "686",
+    "name": "Inkay",
+    "rate": "1/912",
+    "total": "1,825",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/686.png",
+    "rank": 270
+  },
+  {
+    "id": "688",
+    "name": "Binacle",
+    "rate": "1/219",
+    "total": "659",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/688.png",
+    "rank": 48
+  },
+  {
+    "id": "690",
+    "name": "Skrelp",
+    "rate": "1/336",
+    "total": "673",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/690.png",
+    "rank": 63
+  },
+  {
+    "id": "692",
+    "name": "Clauncher",
+    "rate": "1/144",
+    "total": "1,303",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/692.png",
+    "rank": 40
+  },
+  {
+    "id": "694",
+    "name": "Helioptile",
+    "rate": "1/424",
+    "total": "14,863",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/694.png",
+    "rank": 100
+  },
+  {
+    "id": "696",
+    "name": "Tyrunt",
+    "rate": "1/761",
+    "total": "761",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/696.png",
+    "rank": 253
+  },
+  {
+    "id": "702",
+    "name": "Dedenne",
+    "rate": "1/1,557",
+    "total": "3,114",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/702.png",
+    "rank": 288
+  },
+  {
+    "id": "703",
+    "name": "Carbink",
+    "rate": "1/569",
+    "total": "569",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/703.png",
+    "rank": 194
+  },
+  {
+    "id": "708",
+    "name": "Phantump",
+    "rate": "1/96",
+    "total": "192",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/708.png",
+    "rank": 28
+  },
+  {
+    "id": "710",
+    "name": "Pumpkaboo",
+    "rate": "1/323",
+    "total": "2,914",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/710.png",
+    "rank": 60
+  },
+  {
+    "id": "714",
+    "name": "Noibat",
+    "rate": "1/230",
+    "total": "690",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/714.png",
+    "rank": 51
+  },
+  {
+    "id": "722",
+    "name": "Rowlet",
+    "rate": "1/2,160",
+    "total": "2,160",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/722.png",
+    "rank": 293
+  },
+  {
+    "id": "725",
+    "name": "Litten",
+    "rate": "1/758",
+    "total": "18,204",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/725.png",
+    "rank": 251
+  },
+  {
+    "id": "728",
+    "name": "Popplio",
+    "rate": "1/956",
+    "total": "956",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/728.png",
+    "rank": 273
+  },
+  {
+    "id": "731",
+    "name": "Pikipek",
+    "rate": "1/536",
+    "total": "42,367",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/731.png",
+    "rank": 178
+  },
+  {
+    "id": "734",
+    "name": "Yungoos",
+    "rate": "1/414",
+    "total": "4,140",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/734.png",
+    "rank": 94
+  },
+  {
+    "id": "736",
+    "name": "Grubbin",
+    "rate": "1/573",
+    "total": "5,734",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/736.png",
+    "rank": 198
+  },
+  {
+    "id": "737",
+    "name": "Charjabug",
+    "rate": "1/62",
+    "total": "4,128",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/737.png",
+    "rank": 17
+  },
+  {
+    "id": "741",
+    "name": "Oricorio",
+    "rate": "1/793",
+    "total": "7,930",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/741.png",
+    "rank": 258
+  },
+  {
+    "id": "742",
+    "name": "Cutiefly",
+    "rate": "1/536",
+    "total": "6,972",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/742.png",
+    "rank": 179
+  },
+  {
+    "id": "747",
+    "name": "Mareanie",
+    "rate": "1/308",
+    "total": "926",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/747.png",
+    "rank": 58
+  },
+  {
+    "id": "751",
+    "name": "Dewpider",
+    "rate": "1/482",
+    "total": "1,446",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/751.png",
+    "rank": 136
+  },
+  {
+    "id": "753",
+    "name": "Fomantis",
+    "rate": "1/218",
+    "total": "436",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/753.png",
+    "rank": 47
+  },
+  {
+    "id": "755",
+    "name": "Morelull",
+    "rate": "1/829",
+    "total": "1,658",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/755.png",
+    "rank": 263
+  },
+  {
+    "id": "759",
+    "name": "Stufful",
+    "rate": "1/579",
+    "total": "12,743",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/759.png",
+    "rank": 204
+  },
+  {
+    "id": "761",
+    "name": "Bounsweet",
+    "rate": "1/704",
+    "total": "2,819",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/761.png",
+    "rank": 242
+  },
+  {
+    "id": "765",
+    "name": "Oranguru",
+    "rate": "1/553",
+    "total": "553",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/765.png",
+    "rank": 187
+  },
+  {
+    "id": "766",
+    "name": "Passimian",
+    "rate": "1/552",
+    "total": "552",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/766.png",
+    "rank": 185
+  },
+  {
+    "id": "767",
+    "name": "Wimpod",
+    "rate": "1/525",
+    "total": "2,102",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/767.png",
+    "rank": 168
+  },
+  {
+    "id": "769",
+    "name": "Sandygast",
+    "rate": "1/689",
+    "total": "4,138",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/769.png",
+    "rank": 240
+  },
+  {
+    "id": "775",
+    "name": "Komala",
+    "rate": "1/552",
+    "total": "1,105",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/775.png",
+    "rank": 186
+  },
+  {
+    "id": "777",
+    "name": "Togedemaru",
+    "rate": "1/577",
+    "total": "2,886",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/777.png",
+    "rank": 202
+  },
+  {
+    "id": "782",
+    "name": "Jangmo-o",
+    "rate": "1/208",
+    "total": "625",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/782.png",
+    "rank": 46
+  },
+  {
+    "id": "819",
+    "name": "Skwovet",
+    "rate": "1/443",
+    "total": "11,541",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/819.png",
+    "rank": 114
+  },
+  {
+    "id": "821",
+    "name": "Rookidee",
+    "rate": "1/427",
+    "total": "42,283",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/821.png",
+    "rank": 103
+  },
+  {
+    "id": "831",
+    "name": "Wooloo",
+    "rate": "1/454",
+    "total": "16,833",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/831.png",
+    "rank": 121
+  },
+  {
+    "id": "856",
+    "name": "Hatenna",
+    "rate": "1/766",
+    "total": "5,364",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/856.png",
+    "rank": 255
+  },
+  {
+    "id": "906",
+    "name": "Sprigatito",
+    "rate": "1/490",
+    "total": "40,686",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/906.png",
+    "rank": 143
+  },
+  {
+    "id": "909",
+    "name": "Fuecoco",
+    "rate": "1/507",
+    "total": "45,177",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/909.png",
+    "rank": 156
+  },
+  {
+    "id": "912",
+    "name": "Quaxly",
+    "rate": "1/611",
+    "total": "12,843",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/912.png",
+    "rank": 214
+  },
+  {
+    "id": "915",
+    "name": "Lechonk",
+    "rate": "1/1,004",
+    "total": "24,105",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/915.png",
+    "rank": 280
+  },
+  {
+    "id": "919",
+    "name": "Nymble",
+    "rate": "1/826",
+    "total": "18,192",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/919.png",
+    "rank": 262
+  },
+  {
+    "id": "921",
+    "name": "Pawmi",
+    "rate": "1/671",
+    "total": "30,883",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/921.png",
+    "rank": 233
+  },
+  {
+    "id": "928",
+    "name": "Smoliv",
+    "rate": "1/488",
+    "total": "12,216",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/928.png",
+    "rank": 140
+  },
+  {
+    "id": "960",
+    "name": "Wiglett",
+    "rate": "1/112",
+    "total": "448",
+    "img": "https://db.aegogalaxy.com/pokemon-go/imagedata/pkmon/960.png",
+    "rank": 35
+  }
+]
