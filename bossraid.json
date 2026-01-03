@@ -1,0 +1,160 @@
+{
+  "1st Tier": [
+    {
+      "No Dex": "#0025",
+      "Boss Name": "Party Top Hat Pikachu",
+      "Boss CP": "3,277",
+      "Max Capture CP": "536",
+      "Max Capture CP Bosst": "670",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_025_00.png"
+    },
+    {
+      "No Dex": "#0265",
+      "Boss Name": "Party Hat Wurmple",
+      "Boss CP": "1,896",
+      "Max Capture CP": "330",
+      "Max Capture CP Bosst": "413",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_265_00.png"
+    }
+  ],
+  "3rd Tier": [
+    {
+      "No Dex": "#0020",
+      "Boss Name": "Party Hat Raticate",
+      "Boss CP": "13,104",
+      "Max Capture CP": "989",
+      "Max Capture CP Bosst": "1,236",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_020_00.png"
+    },
+    {
+      "No Dex": "#0033",
+      "Boss Name": "Party Hat Nidorino",
+      "Boss CP": "10,237",
+      "Max Capture CP": "796",
+      "Max Capture CP Bosst": "995",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_033_00.png"
+    },
+    {
+      "No Dex": "#0094",
+      "Boss Name": "Party Hat Gengar",
+      "Boss CP": "21,207",
+      "Max Capture CP": "1,644",
+      "Max Capture CP Bosst": "2,055",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_094_00.png"
+    },
+    {
+      "No Dex": "#0202",
+      "Boss Name": "Party Hat Wobbuffet",
+      "Boss CP": "4,950",
+      "Max Capture CP": "586",
+      "Max Capture CP Bosst": "733",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_202_00.png"
+    }
+  ],
+  "5th Tier": [
+    {
+      "No Dex": "#0806",
+      "Boss Name": "Blacephalon",
+      "Boss CP": "51,600",
+      "Max Capture CP": "1,884",
+      "Max Capture CP Bosst": "2,355",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_806_00.png"
+    }
+  ],
+  "Mega Raids": [
+    {
+      "No Dex": "#0260",
+      "Boss Name": "Mega Swampert",
+      "Boss CP": "43,153",
+      "Max Capture CP": "1,699",
+      "Max Capture CP Bosst": "2,124",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_260_00.png"
+    }
+  ],
+  "1st Tier Shadow Raids": [
+    {
+      "No Dex": "#0096",
+      "Boss Name": "Drowzee",
+      "Boss CP": "3,130",
+      "Max Capture CP": "594",
+      "Max Capture CP Bosst": "743",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_096_00.png"
+    },
+    {
+      "No Dex": "#0280",
+      "Boss Name": "Ralts",
+      "Boss CP": "1,980",
+      "Max Capture CP": "308",
+      "Max Capture CP Bosst": "385",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_280_00.png"
+    },
+    {
+      "No Dex": "#0371",
+      "Boss Name": "Bagon",
+      "Boss CP": "3,792",
+      "Max Capture CP": "660",
+      "Max Capture CP Bosst": "826",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_371_00.png"
+    },
+    {
+      "No Dex": "#0459",
+      "Boss Name": "Snover",
+      "Boss CP": "3,488",
+      "Max Capture CP": "662",
+      "Max Capture CP Bosst": "828",
+      "Shiny": "No",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_459_00.png"
+    }
+  ],
+  "3rd Tier Shadow Raids": [
+    {
+      "No Dex": "#0123",
+      "Boss Name": "Scyther",
+      "Boss CP": "20,043",
+      "Max Capture CP": "1,546",
+      "Max Capture CP Bosst": "1,933",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_123_00.png"
+    },
+    {
+      "No Dex": "#0142",
+      "Boss Name": "Aerodactyl",
+      "Boss CP": "19,688",
+      "Max Capture CP": "1,590",
+      "Max Capture CP Bosst": "1,988",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_142_00.png"
+    },
+    {
+      "No Dex": "#0302",
+      "Boss Name": "Sableye",
+      "Boss CP": "12,123",
+      "Max Capture CP": "843",
+      "Max Capture CP Bosst": "1,054",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_302_00.png"
+    }
+  ],
+  "Legendary Shadow Raids": [
+    {
+      "No Dex": "#0488",
+      "Boss Name": "Cresselia",
+      "Boss CP": "33,794",
+      "Max Capture CP": "1,633",
+      "Max Capture CP Bosst": "2,041",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_488_00.png"
+    }
+  ]
+}
