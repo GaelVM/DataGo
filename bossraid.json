@@ -1,0 +1,87 @@
+{
+  "1st Tier": [
+    {
+      "No Dex": "#0025",
+      "Boss Name": "Calem's hat Pikachu",
+      "Boss CP": "3,277",
+      "Max Capture CP": "536",
+      "Max Capture CP Bosst": "670",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_025_00.png"
+    },
+    {
+      "No Dex": "#0025",
+      "Boss Name": "Serena's hat Pikachu",
+      "Boss CP": "3,277",
+      "Max Capture CP": "536",
+      "Max Capture CP Bosst": "670",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_025_00.png"
+    },
+    {
+      "No Dex": "#0679",
+      "Boss Name": "Honedge",
+      "Boss CP": "4,559",
+      "Max Capture CP": "794",
+      "Max Capture CP Bosst": "993",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_679_00.png"
+    }
+  ],
+  "5th Tier": [
+    {
+      "No Dex": "#0716",
+      "Boss Name": "Xerneas",
+      "Boss CP": "45,899",
+      "Max Capture CP": "2,160",
+      "Max Capture CP Bosst": "2,701",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_716_00.png"
+    },
+    {
+      "No Dex": "#0717",
+      "Boss Name": "Yveltal",
+      "Boss CP": "45,899",
+      "Max Capture CP": "2,160",
+      "Max Capture CP Bosst": "2,701",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_717_00.png"
+    },
+    {
+      "No Dex": "#0071",
+      "Boss Name": "Mega Victreebel",
+      "Boss CP": "37,188",
+      "Max Capture CP": "1,389",
+      "Max Capture CP Bosst": "1,736",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_071_00.png"
+    },
+    {
+      "No Dex": "#0149",
+      "Boss Name": "Mega Dragonite",
+      "Boss CP": "48,947",
+      "Max Capture CP": "2,167",
+      "Max Capture CP Bosst": "2,709",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_149_00.png"
+    },
+    {
+      "No Dex": "#0149",
+      "Boss Name": "Mega Dragonite",
+      "Boss CP": "48,947",
+      "Max Capture CP": "2,167",
+      "Max Capture CP Bosst": "2,709",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_149_00.png"
+    },
+    {
+      "No Dex": "#0687",
+      "Boss Name": "Mega Malamar",
+      "Boss CP": "32,568",
+      "Max Capture CP": "1,347",
+      "Max Capture CP Bosst": "1,685",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_687_00.png"
+    }
+  ]
+}
