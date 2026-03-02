@@ -1,0 +1,169 @@
+{
+  "1st Tier": [
+    {
+      "No Dex": "#0431",
+      "Boss Name": "Glameow",
+      "Boss CP": "2,991",
+      "Max Capture CP": "533",
+      "Max Capture CP Bosst": "667",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_431_00.png"
+    },
+    {
+      "No Dex": "#0434",
+      "Boss Name": "Stunky",
+      "Boss CP": "3,413",
+      "Max Capture CP": "657",
+      "Max Capture CP Bosst": "822",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_434_00.png"
+    },
+    {
+      "No Dex": "#0810",
+      "Boss Name": "Grookey",
+      "Boss CP": "3,455",
+      "Max Capture CP": "620",
+      "Max Capture CP Bosst": "775",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_810_00.png"
+    },
+    {
+      "No Dex": "#0971",
+      "Boss Name": "Greavard",
+      "Boss CP": "3,233",
+      "Max Capture CP": "580",
+      "Max Capture CP Bosst": "726",
+      "Shiny": "No",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_971_00.png"
+    }
+  ],
+  "3rd Tier": [
+    {
+      "No Dex": "#0059",
+      "Boss Name": "Arcanine",
+      "Boss CP": "19,534",
+      "Max Capture CP": "1,731",
+      "Max Capture CP Bosst": "2,164",
+      "Shiny": "No",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_059_00.png"
+    },
+    {
+      "No Dex": "#0286",
+      "Boss Name": "Breloom",
+      "Boss CP": "19,368",
+      "Max Capture CP": "1,502",
+      "Max Capture CP Bosst": "1,877",
+      "Shiny": "No",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_286_00.png"
+    },
+    {
+      "No Dex": "#0301",
+      "Boss Name": "Delcatty",
+      "Boss CP": "10,510",
+      "Max Capture CP": "854",
+      "Max Capture CP Bosst": "1,068",
+      "Shiny": "No",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_301_00.png"
+    }
+  ],
+  "5th Tier": [
+    {
+      "No Dex": "#0792",
+      "Boss Name": "Lunala",
+      "Boss CP": "47,461",
+      "Max Capture CP": "2,310",
+      "Max Capture CP Bosst": "2,887",
+      "Shiny": "No",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_792_00.png"
+    }
+  ],
+  "Mega Raids": [
+    {
+      "No Dex": "#0359",
+      "Boss Name": "Mega Absol",
+      "Boss CP": "37,583",
+      "Max Capture CP": "1,443",
+      "Max Capture CP Bosst": "1,805",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_359_00.png"
+    }
+  ],
+  "1st Tier Shadow Raids": [
+    {
+      "No Dex": "#0147",
+      "Boss Name": "Dratini",
+      "Boss CP": "3,379",
+      "Max Capture CP": "574",
+      "Max Capture CP Bosst": "717",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_147_00.png"
+    },
+    {
+      "No Dex": "#0207",
+      "Boss Name": "Gligar",
+      "Boss CP": "5,459",
+      "Max Capture CP": "1,061",
+      "Max Capture CP Bosst": "1,326",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_207_00.png"
+    },
+    {
+      "No Dex": "#0331",
+      "Boss Name": "Cacnea",
+      "Boss CP": "3,951",
+      "Max Capture CP": "709",
+      "Max Capture CP Bosst": "887",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_331_00.png"
+    },
+    {
+      "No Dex": "#0595",
+      "Boss Name": "Joltik",
+      "Boss CP": "3,254",
+      "Max Capture CP": "584",
+      "Max Capture CP Bosst": "730",
+      "Shiny": "No",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_595_00.png"
+    }
+  ],
+  "3rd Tier Shadow Raids": [
+    {
+      "No Dex": "#0105",
+      "Boss Name": "Alolan Marowak",
+      "Boss CP": "14,256",
+      "Max Capture CP": "1,048",
+      "Max Capture CP Bosst": "1,311",
+      "Shiny": "No",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_105_00.png"
+    },
+    {
+      "No Dex": "#0131",
+      "Boss Name": "Lapras",
+      "Boss CP": "15,650",
+      "Max Capture CP": "1,509",
+      "Max Capture CP Bosst": "1,886",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_131_00.png"
+    },
+    {
+      "No Dex": "#0234",
+      "Boss Name": "Stantler",
+      "Boss CP": "15,818",
+      "Max Capture CP": "1,236",
+      "Max Capture CP Bosst": "1,546",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_234_00.png"
+    }
+  ],
+  "Legendary Shadow Raids": [
+    {
+      "No Dex": "#0486",
+      "Boss Name": "Regigigas",
+      "Boss CP": "55,480",
+      "Max Capture CP": "2,483",
+      "Max Capture CP Bosst": "3,104",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_486_00.png"
+    }
+  ]
+}
