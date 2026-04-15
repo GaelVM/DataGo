@@ -24,7 +24,9 @@ def fetch_soup(url: str) -> BeautifulSoup:
     return BeautifulSoup(response.text, "lxml")
 
 
-def extract_json_ld_news(soup: BeautifulSoup) -> list[dict]:
+from typing import List, Dict
+
+def extract_json_ld_news(soup: BeautifulSoup) -> List[Dict]:
     """
     Extrae noticias desde el JSON-LD tipo ItemList.
     Es la fuente más estable porque no depende de clases CSS.
