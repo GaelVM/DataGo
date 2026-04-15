@@ -1,6 +1,7 @@
 import json
 import os
 from urllib.parse import urljoin
+from typing import List, Dict
 
 import requests
 from bs4 import BeautifulSoup
@@ -24,13 +25,7 @@ def fetch_soup(url: str) -> BeautifulSoup:
     return BeautifulSoup(response.text, "lxml")
 
 
-from typing import List, Dict
-
 def extract_json_ld_news(soup: BeautifulSoup) -> List[Dict]:
-    """
-    Extrae noticias desde el JSON-LD tipo ItemList.
-    Es la fuente más estable porque no depende de clases CSS.
-    """
     news = []
 
     for script in soup.select('script[type="application/ld+json"]'):
@@ -72,11 +67,7 @@ def extract_json_ld_news(soup: BeautifulSoup) -> List[Dict]:
     return news
 
 
-def enrich_news_from_cards(soup: BeautifulSoup, news_list: list[dict]) -> list[dict]:
-    """
-    Completa fecha e imagen recorriendo las cards visibles.
-    Hace match por link.
-    """
+def enrich_news_from_cards(soup: BeautifulSoup, news_list: List[Dict]) -> List[Dict]:
     by_link = {item["link"]: item for item in news_list}
 
     for card in soup.select('a[href^="/es/news/"], a[href^="/es/post/"]'):
@@ -100,11 +91,7 @@ def enrich_news_from_cards(soup: BeautifulSoup, news_list: list[dict]) -> list[d
     return list(by_link.values())
 
 
-def extract_news_from_cards_only(soup: BeautifulSoup) -> list[dict]:
-    """
-    Fallback si el JSON-LD falla.
-    Evita depender de una clase específica para el título.
-    """
+def extract_news_from_cards_only(soup: BeautifulSoup) -> List[Dict]:
     news_list = []
 
     for card in soup.select('a[href^="/es/news/"], a[href^="/es/post/"]'):
@@ -120,18 +107,14 @@ def extract_news_from_cards_only(soup: BeautifulSoup) -> list[dict]:
         img_tag = card.select_one("img")
         image = img_tag["src"] if img_tag and img_tag.has_attr("src") else ""
 
-        # Buscar título sin depender de una clase compilada concreta
         title = ""
         divs = card.find_all("div")
         texts = [normalize_spaces(div.get_text(" ", strip=True)) for div in divs]
         texts = [t for t in texts if t]
 
-        # Tomamos el último texto no vacío como heurística:
-        # normalmente el orden es fecha -> título
         if texts:
             title = texts[-1]
 
-        # Si por algún motivo el último coincide con la fecha, buscamos otro
         if title and title == date and len(texts) > 1:
             for candidate in reversed(texts[:-1]):
                 if candidate != date:
@@ -151,7 +134,7 @@ def extract_news_from_cards_only(soup: BeautifulSoup) -> list[dict]:
     return news_list
 
 
-def deduplicate_news(news_list: list[dict]) -> list[dict]:
+def deduplicate_news(news_list: List[Dict]) -> List[Dict]:
     seen = set()
     result = []
 
@@ -165,22 +148,20 @@ def deduplicate_news(news_list: list[dict]) -> list[dict]:
     return result
 
 
-def scrape_latest_news() -> list[dict]:
+def scrape_latest_news() -> List[Dict]:
     soup = fetch_soup(NEWS_URL)
 
-    # 1) Intento principal: JSON-LD
     news_list = extract_json_ld_news(soup)
 
     if news_list:
         news_list = enrich_news_from_cards(soup, news_list)
         return deduplicate_news(news_list)
 
-    # 2) Fallback: parseo directo de cards
     news_list = extract_news_from_cards_only(soup)
     return deduplicate_news(news_list)
 
 
-def save_to_json(data: list[dict], path: str) -> None:
+def save_to_json(data: List[Dict], path: str) -> None:
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
