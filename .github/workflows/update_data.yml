@@ -24,6 +24,7 @@ jobs:
           run: |
             pip install requests
             pip install beautifulsoup4
+            pip install lxml
             
     
         - name: Extraer jefes

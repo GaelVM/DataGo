@@ -22,7 +22,7 @@ def normalize_spaces(text: str) -> str:
 def fetch_soup(url: str) -> BeautifulSoup:
     response = requests.get(url, headers=HEADERS, timeout=30)
     response.raise_for_status()
-    return BeautifulSoup(response.text, "lxml")
+    return BeautifulSoup(response.text, "html.parser")
 
 
 def extract_json_ld_news(soup: BeautifulSoup) -> List[Dict]:
