@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Nihilego",
+        "start": "2026-05-06T18:00:00.000",
+        "end": "2026-05-06T19:00:00.000",
+        "extraData": null
+    },
+    {
+        "name": "Buzzwole, Pheromosa, and Xurkitree",
+        "start": "2026-05-13T18:00:00.000",
+        "end": "2026-05-13T19:00:00.000",
+        "extraData": null
+    },
+    {
+        "name": "Tapu Bulu",
+        "start": "2026-05-20T18:00:00.000",
+        "end": "2026-05-20T19:00:00.000",
+        "extraData": null
+    },
+    {
+        "name": "Tapu Fini",
+        "start": "2026-05-27T18:00:00.000",
+        "end": "2026-05-27T19:00:00.000",
+        "extraData": null
+    }
+]
