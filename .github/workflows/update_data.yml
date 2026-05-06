@@ -5,85 +5,66 @@ on:
     branches:
       - main
   schedule:
-    - cron: '*/10 * * * *'  # Ejecutar cada 10 minutos
+    - cron: "*/10 * * * *"
+
+permissions:
+  contents: write
 
 jobs:
-      update-raid-data:
-        runs-on: ubuntu-latest
-    
-        steps:
-        - name: Checkout Repository
-          uses: actions/checkout@v2
-    
-        - name: Set up Python
-          uses: actions/setup-python@v2
-          with:
-            python-version: 3.8
-    
-        - name: Install Dependencies
-          run: |
-            pip install requests
-            pip install beautifulsoup4
-            pip install lxml
-            
-   
-        
-        - name: Extraer shiny rank
-          run: python shinyrank.py
-        
-        - name: Extraer destacados
-          run: python destacados.py
+  update-data:
+    runs-on: ubuntu-latest
 
-        - name: Extraer legendarios
-          run: python legendarios.py
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-        - name: Extraer sbinys
-          run: python shinys.py
-          
-        - name: Extraer noticias
-          run: python noticias.py
-        
-        - name: Move JSON File to Working Directory
-          run: mv temp/rankshiny.json ./
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
 
-        - name: Move JSON File to Working Directory
-          run: mv temp/destacados.json ./
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml
 
-        - name: Move JSON File to Working Directory
-          run: mv temp/raid_hour.json ./
+      - name: Crear carpeta temp
+        run: mkdir -p temp
 
-        - name: Move JSON File to Working Directory
-          run: mv temp/shinys.json ./
-        
-        - name: Move JSON File to Working Directory
-          run: mv temp/noticias.json ./
+      - name: Extraer shiny rank
+        run: python shinyrank.py
 
-        - name: Modify JSON File
-          run: |
-              echo "" >> rankshiny.json
-              echo "" >> destacados.json
-              echo "" >> raid_hour.json
-              echo "" >> shinys.json
-              echo "" >> noticias.json
-        
-        - name: Commit JSON Changes
-          run: |
-            git config --local user.email "github-actions[bot]@users.noreply.github.com"
-            git config --local user.name "github-actions[bot]"
-            git switch --orphan data
-            git add rankshiny.json
-            git add destacados.json
-            git add raid_hour.json
-            git add shinys.json
-            git add noticias.json
-            git commit -m "Datos actualizados 🤖🍺"
-    
-        - name: Remove Temp Folder
-          run: rm -r temp
-    
-        - name: Push Data Branch (JrVM)
-          uses: ad-m/github-push-action@v0.6.0
-          with:
-            github_token: ${{ secrets.GITHUB_TOKEN }}
-            branch: data
-            force: true
+      - name: Extraer destacados
+        run: python destacados.py
+
+      - name: Extraer legendarios
+        run: python legendarios.py
+
+      - name: Extraer shinys
+        run: python shinys.py
+
+      - name: Extraer noticias
+        run: python noticias.py
+
+      - name: Move JSON files to working directory
+        run: |
+          mv temp/rankshiny.json ./
+          mv temp/destacados.json ./
+          mv temp/raid_hour.json ./
+          mv temp/shinys.json ./
+          mv temp/noticias.json ./
+
+      - name: Commit JSON Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git switch --orphan data
+          git add rankshiny.json destacados.json raid_hour.json shinys.json noticias.json
+          git commit -m "Datos actualizados 🤖🍺"
+
+      - name: Push Data Branch
+        uses: ad-m/github-push-action@v0.8.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: data
+          force: true
