@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Articuno, Zapdos, and Moltres",
+        "start": "2026-07-01T18:00:00.000",
+        "end": "2026-07-01T19:00:00.000",
+        "extraData": null
+    },
+    {
+        "name": "Kyogre",
+        "start": "2026-07-15T18:00:00.000",
+        "end": "2026-07-15T19:00:00.000",
+        "extraData": null
+    },
+    {
+        "name": "Solgaleo",
+        "start": "2026-07-22T18:00:00.000",
+        "end": "2026-07-22T19:00:00.000",
+        "extraData": null
+    },
+    {
+        "name": "Kyurem",
+        "start": "2026-07-29T18:00:00.000",
+        "end": "2026-07-29T19:00:00.000",
+        "extraData": null
+    }
+]
