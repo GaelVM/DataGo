@@ -15,7 +15,19 @@ NEWS_URL = f"{BASE_URL}/es/news"
 OUTPUT_FILE = Path("temp/noticias.json")
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (compatible; PokemonGoNewsScraper/2.0)"
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/126.0.0.0 Safari/537.36"
+    ),
+    "Accept": (
+        "text/html,application/xhtml+xml,application/xml;q=0.9,"
+        "image/avif,image/webp,*/*;q=0.8"
+    ),
+    "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
+    "Cache-Control": "no-cache",
+    "Referer": "https://pokemongo.com/",
+    "Upgrade-Insecure-Requests": "1",
 }
 
 logging.basicConfig(
@@ -37,11 +49,31 @@ def normalize_spaces(text: str | None) -> str:
 
 
 def fetch_soup(url: str) -> BeautifulSoup:
+    session = requests.Session()
+    session.headers.update(HEADERS)
+
     try:
-        response = requests.get(url, headers=HEADERS, timeout=30)
+        # Visita inicial para obtener las cookies que entregue el servidor.
+        session.get(BASE_URL, timeout=30)
+
+        response = session.get(url, timeout=30)
         response.raise_for_status()
+
+    except requests.HTTPError as exc:
+        status = exc.response.status_code if exc.response is not None else "desconocido"
+
+        raise RuntimeError(
+            f"El servidor respondió con HTTP {status} al descargar {url}. "
+            "Es posible que esté bloqueando la IP de GitHub Actions."
+        ) from exc
+
     except requests.RequestException as exc:
-        raise RuntimeError(f"No se pudo descargar la página: {url}") from exc
+        raise RuntimeError(
+            f"Error de conexión al descargar {url}: {exc}"
+        ) from exc
+
+    if not response.text.strip():
+        raise RuntimeError(f"El servidor devolvió una página vacía: {url}")
 
     return BeautifulSoup(response.text, "html.parser")
 
@@ -209,9 +241,24 @@ def save_to_json(data: list[NewsItem], path: Path) -> None:
 
 
 def main() -> None:
-    latest_news = scrape_latest_news()
+    try:
+        latest_news = scrape_latest_news()
+    except RuntimeError as exc:
+        logging.error("%s", exc)
+        return
+
+    if not latest_news:
+        logging.warning(
+            "No se encontraron noticias. Se conservará el archivo anterior."
+        )
+        return
+
     save_to_json(latest_news, OUTPUT_FILE)
-    print(f"{len(latest_news)} noticias guardadas en '{OUTPUT_FILE}'")
+    logging.info(
+        "%s noticias guardadas en '%s'",
+        len(latest_news),
+        OUTPUT_FILE,
+    )
 
 
 if __name__ == "__main__":
