@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Mankey",
+        "start": "2026-08-27T18:00:00.000",
+        "end": "2026-08-27T19:00:00.000",
+        "extraData": {
+            "name": "Mankey",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_056_00.png",
+            "bonus": "Doble de caramelos por captura",
+            "list": [
+                {
+                    "name": "Mankey",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_056_00.png"
+                }
+            ],
+            "bonusimg": "2× Catch Candy"
+        }
+    }
+]

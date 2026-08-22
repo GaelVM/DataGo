@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Regirock, Regice, and Registeel",
+        "start": "2026-08-26T18:00:00.000",
+        "end": "2026-08-26T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "name": "Regirock, Regice, and Registeel",
+        "start": "2026-09-02T18:00:00.000",
+        "end": "2026-09-02T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    }
+]
