@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Zacian (Hero of Many Battles)",
+        "start": "2026-09-09T18:00:00.000",
+        "end": "2026-09-09T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "name": "Zamazenta (Hero of Many Battles)",
+        "start": "2026-09-16T18:00:00.000",
+        "end": "2026-09-16T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "name": "Xurkitree, Pheromosa, and Buzzwole",
+        "start": "2026-09-23T18:00:00.000",
+        "end": "2026-09-23T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "name": "Xerneas",
+        "start": "2026-09-30T18:00:00.000",
+        "end": "2026-09-30T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    }
+]

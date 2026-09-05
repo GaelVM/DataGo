@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Weedle, Kakuna, Beedrill",
+        "start": "2026-09-10T18:00:00.000",
+        "end": "2026-09-10T19:00:00.000",
+        "extraData": {
+            "name": "Weedle",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_013_00.png",
+            "bonus": "Doble de caramelos por transferencia",
+            "list": [
+                {
+                    "name": "Weedle",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_013_00.png"
+                },
+                {
+                    "name": "Kakuna",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_014_00.png"
+                },
+                {
+                    "name": "Beedrill",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_015_00.png"
+                }
+            ],
+            "bonusimg": "2× Transfer Candy"
+        }
+    },
+    {
+        "name": "Houndour, Houndoom",
+        "start": "2026-09-13T18:00:00.000",
+        "end": "2026-09-13T19:00:00.000",
+        "extraData": {
+            "name": "Houndour",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png",
+            "bonus": "Doble de caramelos por transferencia",
+            "list": [
+                {
+                    "name": "Houndour",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_228_00.png"
+                },
+                {
+                    "name": "Houndoom",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_229_00.png"
+                }
+            ],
+            "bonusimg": "2× Transfer Candy"
+        }
+    },
+    {
+        "name": "Rattata",
+        "start": "2026-09-24T18:00:00.000",
+        "end": "2026-09-24T19:00:00.000",
+        "extraData": {
+            "name": "Rattata",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_019_00.png",
+            "bonus": "Doble de experiencia por evolución",
+            "list": [
+                {
+                    "name": "Rattata",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_019_00.png"
+                }
+            ],
+            "bonusimg": "2× Evolution XP"
+        }
+    }
+]
