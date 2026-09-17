@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Charmander wearing Friede's goggles",
+        "start": "2026-09-17T18:00:00.000",
+        "end": "2026-09-17T19:00:00.000",
+        "extraData": {
+            "name": "Charmander wearing Friede's goggles",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm4.fGOGGLES_2026.icon.png",
+            "bonus": "Doble de polvo estelar por captura",
+            "list": [
+                {
+                    "name": "Charmander wearing Friede's goggles",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm4.fGOGGLES_2026.icon.png"
+                }
+            ],
+            "bonusimg": "2× Catch Stardust"
+        }
+    },
+    {
+        "name": "Rattata",
+        "start": "2026-09-24T18:00:00.000",
+        "end": "2026-09-24T19:00:00.000",
+        "extraData": {
+            "name": "Rattata",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_019_00.png",
+            "bonus": "Doble de experiencia por evolución",
+            "list": [
+                {
+                    "name": "Rattata",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_019_00.png"
+                }
+            ],
+            "bonusimg": "2× Evolution XP"
+        }
+    }
+]
