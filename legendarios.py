@@ -1,57 +1,74 @@
 import json
 import requests
 import os
+import re
 
-# Obtener el JSON original desde la URL
 url = "https://raw.githubusercontent.com/GaelVM/DataDuck/data/events.json"
+
 response = requests.get(url)
+response.raise_for_status()
+
 original_json = response.json()
 
-# Filtrar eventos con eventType "raid-hour"
-filtered_raid_events = [event for event in original_json if event.get("eventType") == "raid-hour"]
+filtered_raid_events = [
+    event for event in original_json
+    if event.get("eventType") == "raid-hour"
+]
 
-# Crear un nuevo JSON con los datos filtrados
 new_json = []
 
-# Procesar eventos de "raid-hour"
 for event in filtered_raid_events:
-    # Eliminar "Raid Hour" del nombre y mantener solo el nombre del Pokémon
-    pokemon_name = event["name"].replace(" Raid Hour", "")
-    
-    # Manejar el caso donde se encuentra "Forme"
-    if "Forme" in pokemon_name:
-        parts = pokemon_name.split(" Forme ")
-        formatted_name = f"{parts[1]} {parts[0]}"
-        fm_value = parts[0] if len(parts) > 1 else ""
-    else:
-        formatted_name = pokemon_name
+
+    pokemon_names = event.get("name", "").replace(" Raid Hour", "").strip()
+
+    # Convierte:
+    # "Xurkitree, Pheromosa, and Buzzwole"
+    # en:
+    # ["Xurkitree", "Pheromosa", "Buzzwole"]
+    pokemon_list = re.split(r",\s*|\s+and\s+", pokemon_names)
+
+    for pokemon_name in pokemon_list:
+
+        pokemon_name = pokemon_name.strip()
+
+        if not pokemon_name:
+            continue
+
         fm_value = None
+        formatted_name = pokemon_name
 
-    new_event = {
-        "name": formatted_name.strip(),
-        "start": event["start"],  # Extraer start del JSON original
-        "end": event["end"],      # Extraer end del JSON original
-        "extraData": event["extraData"]
-    }
-    
-    # Añadir la clave "fm" si corresponde
-    if fm_value:
-        new_event["fm"] = fm_value.strip()
+        # Manejo de Forme
+        if " Forme " in pokemon_name:
+            parts = pokemon_name.split(" Forme ", 1)
 
-    new_json.append(new_event)
+            if len(parts) == 2:
+                fm_value = parts[0].strip()
+                formatted_name = f"{parts[1].strip()} {parts[0].strip()}"
 
-# Define la carpeta temporal
+        new_event = {
+            "name": formatted_name,
+            "start": event.get("start"),
+            "end": event.get("end"),
+            "extraData": event.get("extraData", {})
+        }
+
+        if fm_value:
+            new_event["fm"] = fm_value
+
+        new_json.append(new_event)
+
 temp_folder = "temp"
 
-# Verifica si la carpeta temporal ya existe, y si no, créala
-if not os.path.exists(temp_folder):
-    os.makedirs(temp_folder)
+os.makedirs(temp_folder, exist_ok=True)
 
-# Define la ruta completa del archivo JSON en la carpeta temporal
 json_file_path = os.path.join(temp_folder, "raid_hour.json")
 
-# Escribir el nuevo JSON en un archivo
-with open(json_file_path, "w") as file:
-    json.dump(new_json, file, indent=4, ensure_ascii=False)
+with open(json_file_path, "w", encoding="utf-8") as file:
+    json.dump(
+        new_json,
+        file,
+        indent=4,
+        ensure_ascii=False
+    )
 
 print("Nuevo JSON creado con éxito.")
