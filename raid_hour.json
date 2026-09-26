@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Xerneas",
+        "start": "2026-09-30T18:00:00.000",
+        "end": "2026-09-30T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "name": "Yveltal",
+        "start": "2026-10-07T18:00:00.000",
+        "end": "2026-10-07T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "name": "Dialga",
+        "start": "2026-10-14T18:00:00.000",
+        "end": "2026-10-14T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "name": "Palkia",
+        "start": "2026-10-21T18:00:00.000",
+        "end": "2026-10-21T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "name": "Giratina (Origin Forme)",
+        "start": "2026-10-28T18:00:00.000",
+        "end": "2026-10-28T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    }
+]
