@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Giratina (Origin Forme)",
+        "start": "2026-10-28T18:00:00.000",
+        "end": "2026-10-28T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "name": "Giratina (Altered Forme)",
+        "start": "2026-11-04T18:00:00.000",
+        "end": "2026-11-04T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "name": "Cresselia",
+        "start": "2026-11-18T18:00:00.000",
+        "end": "2026-11-18T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "name": "Darkrai",
+        "start": "2026-11-18T18:00:00.000",
+        "end": "2026-11-18T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "name": "Deoxys (Normal",
+        "start": "2026-11-25T18:00:00.000",
+        "end": "2026-11-25T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "name": "Defense",
+        "start": "2026-11-25T18:00:00.000",
+        "end": "2026-11-25T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "name": "Attack",
+        "start": "2026-11-25T18:00:00.000",
+        "end": "2026-11-25T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "name": "and Speed Formes)",
+        "start": "2026-11-25T18:00:00.000",
+        "end": "2026-11-25T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    }
+]
