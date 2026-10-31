@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Teddiursa wearing a witch hat",
+        "start": "2026-11-05T18:00:00.000",
+        "end": "2026-11-05T19:00:00.000",
+        "extraData": {
+            "name": "Teddiursa wearing a witch hat",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm216.cHALLOWEEN_2025.icon.png",
+            "bonus": "Doble de experiencia por evolución",
+            "list": [
+                {
+                    "name": "Teddiursa wearing a witch hat",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm216.cHALLOWEEN_2025.icon.png"
+                }
+            ],
+            "bonusimg": "2× Evolution XP"
+        }
+    },
+    {
+        "name": "Grookey, Scorbunny, Sobble",
+        "start": "2026-11-19T18:00:00.000",
+        "end": "2026-11-19T19:00:00.000",
+        "extraData": {
+            "name": "Grookey",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm810.icon.png",
+            "bonus": "Doble de caramelos por captura",
+            "list": [
+                {
+                    "name": "Grookey",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm810.icon.png"
+                },
+                {
+                    "name": "Scorbunny",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm813.icon.png"
+                },
+                {
+                    "name": "Sobble",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm816.icon.png"
+                }
+            ],
+            "bonusimg": "2× Catch Candy"
+        }
+    },
+    {
+        "name": "Noibat",
+        "start": "2026-11-26T18:00:00.000",
+        "end": "2026-11-26T19:00:00.000",
+        "extraData": {
+            "name": "Noibat",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_714_00.png",
+            "bonus": "Doble de caramelos por captura",
+            "list": [
+                {
+                    "name": "Noibat",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_714_00.png"
+                }
+            ],
+            "bonusimg": "2× Catch Candy"
+        }
+    }
+]
